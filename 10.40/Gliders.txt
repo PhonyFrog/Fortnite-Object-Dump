@@ -1,0 +1,220 @@
+Fortnite Version 10.400000
+
+[Random] /Game/Athena/Items/Cosmetics/Gliders/Glider_Random.Glider_Random
+[Glider] /Game/Athena/Items/Cosmetics/Gliders/DefaultGlider.DefaultGlider
+[Snowflake] /Game/Athena/Items/Cosmetics/Gliders/Umbrella_Snowflake.Umbrella_Snowflake
+[The Umbrella] /Game/Athena/Items/Cosmetics/Gliders/Umbrella_Silver.Umbrella_Silver
+[X] /Game/Athena/Items/Cosmetics/Gliders/Umbrella_Season_10.Umbrella_Season_10
+[Holographic] /Game/Athena/Items/Cosmetics/Gliders/Umbrella_Season_09.Umbrella_Season_09
+[Palm Leaf] /Game/Athena/Items/Cosmetics/Gliders/Umbrella_Season_08.Umbrella_Season_08
+[Snowfall] /Game/Athena/Items/Cosmetics/Gliders/Umbrella_Season_07.Umbrella_Season_07
+[Webrella] /Game/Athena/Items/Cosmetics/Gliders/Umbrella_Season_06.Umbrella_Season_06
+[Beach Umbrella] /Game/Athena/Items/Cosmetics/Gliders/Umbrella_Season_05.Umbrella_Season_05
+[Wet Paint] /Game/Athena/Items/Cosmetics/Gliders/Umbrella_Season_04.Umbrella_Season_04
+[The Umbrella] /Game/Athena/Items/Cosmetics/Gliders/Umbrella_Platinum.Umbrella_Platinum
+[Paper Parasol] /Game/Athena/Items/Cosmetics/Gliders/Umbrella_PaperParasol.Umbrella_PaperParasol
+[The Umbrella] /Game/Athena/Items/Cosmetics/Gliders/Umbrella_Gold.Umbrella_Gold
+[The Umbrella] /Game/Athena/Items/Cosmetics/Gliders/Umbrella_Bronze.Umbrella_Bronze
+[One Shot] /Game/Athena/Items/Cosmetics/Gliders/Umbrella_AssassinSuit.Umbrella_AssassinSuit
+[Squad Umbrella] /Game/Athena/Items/Cosmetics/Gliders/Squad_Umbrella.Squad_Umbrella
+[The Umbrella] /Game/Athena/Items/Cosmetics/Gliders/Solo_Umbrella.Solo_Umbrella
+[Rainbow Glider Elite] /Game/Athena/Items/Cosmetics/Gliders/PreSeasonGlider_Elite.PreSeasonGlider_Elite
+[Rainbow Glider] /Game/Athena/Items/Cosmetics/Gliders/PreSeasonGlider.PreSeasonGlider
+[Mako] /Game/Athena/Items/Cosmetics/Gliders/Glider_Warthog.Glider_Warthog
+[Voyager] /Game/Athena/Items/Cosmetics/Gliders/Glider_Voyager.Glider_Voyager
+[Wasp] /Game/Athena/Items/Cosmetics/Gliders/Glider_Venom.Glider_Venom
+[Glider] /Game/Athena/Items/Cosmetics/Gliders/Glider_TestStaticParts.Glider_TestStaticParts
+[Stealth] /Game/Athena/Items/Cosmetics/Gliders/Glider_Stealth.Glider_Stealth
+[Roadtrip] /Game/Athena/Items/Cosmetics/Gliders/Glider_RoadTrip.Glider_RoadTrip
+[Glider] /Game/Athena/Items/Cosmetics/Gliders/Glider_ProxyTest.Glider_ProxyTest
+[Prismatic] /Game/Athena/Items/Cosmetics/Gliders/Glider_Prismatic.Glider_Prismatic
+[Warthog] /Game/Athena/Items/Cosmetics/Gliders/Glider_Military.Glider_Military
+[Raptor] /Game/Athena/Items/Cosmetics/Gliders/Glider_MiG.Glider_MiG
+[Batwing] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_178_BlackMondayMale_03M3E.Glider_ID_178_BlackMondayMale_03M3E
+[Catwing] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_177_BlackMondayFemale_HO3A9.Glider_ID_177_BlackMondayFemale_HO3A9
+[Bat Glider] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_176_BlackMondayCape_GrapplerAsset.Glider_ID_176_BlackMondayCape_GrapplerAsset
+[Batglider] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_176_BlackMondayCape_4P79K.Glider_ID_176_BlackMondayCape_4P79K
+[Sky Stripe] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_175_StreetFashionRed.Glider_ID_175_StreetFashionRed
+[Nite Flight] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_174_SleepyTime.Glider_ID_174_SleepyTime
+[Stunt Cycle] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_173_TacticalBiker.Glider_ID_173_TacticalBiker
+[Dual Defiant] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_172_RaptorBlackOps.Glider_ID_172_RaptorBlackOps
+[Pixel Pilot] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_169_VoyagerRemix.Glider_ID_169_VoyagerRemix
+[Rift Rider] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_168_StreetRacerDriftRemix.Glider_ID_168_StreetRacerDriftRemix
+[Sparkle Strider] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_167_SparkleRemix.Glider_ID_167_SparkleRemix
+[Junk Bucket] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_166_RustLordRemix.Glider_ID_166_RustLordRemix
+[Steelwing] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_165_KnightRemix.Glider_ID_165_KnightRemix
+[Spray Sail] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_164_GraffitiRemix.Glider_ID_164_GraffitiRemix
+[Master Mix] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_163_DJRemix.Glider_ID_163_DJRemix
+[Horned Strike] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_162_BoneWasp.Glider_ID_162_BoneWasp
+[Rose Rider] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_161_RoseLeader.Glider_ID_161_RoseLeader
+[Chaos] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_160_Anarchy.Glider_ID_160_Anarchy
+[Ion] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_159_TechMage.Glider_ID_159_TechMage
+[Camp Cruiser] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_158_Hairy.Glider_ID_158_Hairy
+[Driftstream] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_157_Drift.Glider_ID_157_Drift
+[Payload] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_156_SummerBomber.Glider_ID_156_SummerBomber
+[Man O' War] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_155_Jellyfish.Glider_ID_155_Jellyfish
+[Megabat] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_154_GlowBroBat.Glider_ID_154_GlowBroBat
+[Custom Cruiser] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_153_Banner.Glider_ID_153_Banner
+[Batso] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_152_DemonHunter.Glider_ID_152_DemonHunter
+[Storm Eye] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_151_StormSoldier.Glider_ID_151_StormSoldier
+[Coaxial Blue] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_150_TechOpsBlue.Glider_ID_150_TechOpsBlue
+[Engage] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_149_Geisha.Glider_ID_149_Geisha
+[Tech Turbine] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_148_CyberScavenger.Glider_ID_148_CyberScavenger
+[Assault Bomber] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_147_Raptor.Glider_ID_147_Raptor
+[Scarlet Strike] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_146_Masako.Glider_ID_146_Masako
+[Tailwind Twister] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_145_StormTracker.Glider_ID_145_StormTracker
+[Turbo Spin] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_144_StrawberryPilot.Glider_ID_144_StrawberryPilot
+[Retaliator] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_143_BattleSuit.Glider_ID_143_BattleSuit
+[The Milano] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_142_AshtonSaltLake.Glider_ID_142_AshtonSaltLake
+[Avengers Quinjet] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_141_AshtonBoardwalk.Glider_ID_141_AshtonBoardwalk
+[Arcana] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_140_ShatterFly.Glider_ID_140_ShatterFly
+[Globetrotter] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_139_EarthDay.Glider_ID_139_EarthDay
+[Surefire] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_138_BomberPlane.Glider_ID_138_BomberPlane
+[Stealth Pivot] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_137_StreetOpsStealth.Glider_ID_137_StreetOpsStealth
+[Targeted] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_136_Bullseye.Glider_ID_136_Bullseye
+[Home Run] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_135_Baseball.Glider_ID_135_Baseball
+[Lavawing] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_134_DarkVikingFire.Glider_ID_134_DarkVikingFire
+[Falcon] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_133_BandageNinja.Glider_ID_133_BandageNinja
+[Plunder] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_132_Pirate01Octopus.Glider_ID_132_Pirate01Octopus
+[Dark Forerunner] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_131_SpeedyMidnight.Glider_ID_131_SpeedyMidnight
+[Disruptor] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_130_SciOps.Glider_ID_130_SciOps
+[Cinder] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_129_FireElf.Glider_ID_129_FireElf
+[Booty Buoy] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_128_BootyBuoy.Glider_ID_128_BootyBuoy
+[Sunrise] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_127_Aztec.Glider_ID_127_Aztec
+[Crop Duster] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_126_Farmer.Glider_ID_126_Farmer
+[Choppa] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_125_Bandolier.Glider_ID_125_Bandolier
+[Sky Serpents] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_124_Medusa.Glider_ID_124_Medusa
+[Lockstep] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_123_MasterKey.Glider_ID_123_MasterKey
+[Heartspan] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_122_Valentines.Glider_ID_122_Valentines
+[Brite Blimp] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_121_BriteBomberDeluxe.Glider_ID_121_BriteBomberDeluxe
+[Ice Cream Cruiser] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_120_IceCream.Glider_ID_120_IceCream
+[Frozen Feathers] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_119_ReaperFrozen.Glider_ID_119_ReaperFrozen
+[Mello Rider] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_118_Squishy.Glider_ID_118_Squishy
+[Wild Streak] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_117_Warpaint.Glider_ID_117_Warpaint
+[Extra Cheese] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_116_PizzaPit.Glider_ID_116_PizzaPit
+[Snowblades] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_115_SnowNinja.Glider_ID_115_SnowNinja
+[Winter's Thorn] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_114_IceQueen.Glider_ID_114_IceQueen
+[Tusk] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_113_Barbarian.Glider_ID_113_Barbarian
+[Coaxial Copter] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_112_TechOps.Glider_ID_112_TechOps
+[Diverge] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_111_MilitaryFashion.Glider_ID_111_MilitaryFashion
+[Coral Cruiser] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_110_TeriyakiFish.Glider_ID_110_TeriyakiFish
+[Equilibrium] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_109_StreetGoth.Glider_ID_109_StreetGoth
+[Krampus' Little Helper] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_108_Krampus.Glider_ID_108_Krampus
+[Crystal Carriage] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_107_IceMaiden.Glider_ID_107_IceMaiden
+[Equalizer] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_106_FortniteDJ.Glider_ID_106_FortniteDJ
+[Royale Air] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_105_SnowBoard.Glider_ID_105_SnowBoard
+[Gingersled] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_105_Gingerbread.Glider_ID_105_Gingerbread
+[Paper Plane] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_104_Math.Glider_ID_104_Math
+[Cuddle Cruiser] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_104_FuzzyBear.Glider_ID_104_FuzzyBear
+[Glidurrr] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_104_Durrburger.Glider_ID_104_Durrburger
+[Nautilus] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_103_Nautilus.Glider_ID_103_Nautilus
+[Fuel] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_102_Rhino.Glider_ID_102_Rhino
+[Tactical Sleigh] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_101_TacticalSanta.Glider_ID_101_TacticalSanta
+[Rickety Runner] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_100_Yeti.Glider_ID_100_Yeti
+[Flutterbug] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_099_Moth.Glider_ID_099_Moth
+[Hyper] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_098_Sup.Glider_ID_098_Sup
+[Flappy Flyer] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_097_Feathers.Glider_ID_097_Feathers
+[Flying Carp] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_096_HornedMask.Glider_ID_096_HornedMask
+[Magic Wings] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_095_Witch.Glider_ID_095_Witch
+[Kabuto] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_094_SamuraiUltra.Glider_ID_094_SamuraiUltra
+[Poofy Parasail] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_093_AnimalJackets.Glider_ID_093_AnimalJackets
+[Pivot] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_092_StreetOps.Glider_ID_092_StreetOps
+[Junkjet] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_091_MadCommander.Glider_ID_091_MadCommander
+[Discovery] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_090_Celestial.Glider_ID_090_Celestial
+[Spirit] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_089_Muertos.Glider_ID_089_Muertos
+[Dark Engine] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_088_EvilCowboy.Glider_ID_088_EvilCowboy
+[Divine Dragon] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_087_GuanYu.Glider_ID_087_GuanYu
+[Hatchling] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_086_BlackWidow.Glider_ID_086_BlackWidow
+[Crypt Cruiser] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_085_SkullTrooper.Glider_ID_085_SkullTrooper
+[Lamplight] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_084_Plague.Glider_ID_084_Plague
+[Dark Glyph] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_083_DarkBomber.Glider_ID_083_DarkBomber
+[Field Wraith] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_082_Scarecrow.Glider_ID_082_Scarecrow
+[Crossfire] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_081_CowboyGunslinger.Glider_ID_081_CowboyGunslinger
+[Covered Crusader] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_080_PrairiePusher.Glider_ID_080_PrairiePusher
+[Picnic] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_079_RedRiding.Glider_ID_079_RedRiding
+[Swarm] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_078_Vampire.Glider_ID_078_Vampire
+[Oktoberfeast] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_077_Octoberfest.Glider_ID_077_Octoberfest
+[Dirigible] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_076_DieselPunk.Glider_ID_076_DieselPunk
+[Rotor] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_075_ModernMilitaryRed.Glider_ID_075_ModernMilitaryRed
+[Cold Front] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_074_RaptorArcticCamo.Glider_ID_074_RaptorArcticCamo
+[Airlift] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_073_Medic.Glider_ID_073_Medic
+[Safecracker] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_072_Bling.Glider_ID_072_Bling
+[Touchdown] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_071_Football.Glider_ID_071_Football
+[Frostwing] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_070_DarkViking.Glider_ID_070_DarkViking
+[Shadow Puppet] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_069_Hacivat.Glider_ID_069_Hacivat
+[Hot Ride] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_068_GarageBand.Glider_ID_068_GarageBand
+[Flappy] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_067_PSBurnout.Glider_ID_067_PSBurnout
+[Purrfect] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_066_SamuraiBlue.Glider_ID_066_SamuraiBlue
+[Tie-dye Flyer] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_065_Hippie.Glider_ID_065_Hippie
+[Blaze] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_064_Biker.Glider_ID_064_Biker
+[Flying Fish] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_063_SushiChef.Glider_ID_063_SushiChef
+[White Squall] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_062_StreetRacerWhite.Glider_ID_062_StreetRacerWhite
+[Cyclone] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_061_StreetRacerBiker.Glider_ID_061_StreetRacerBiker
+[Windbreaker] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_060_Exercise.Glider_ID_060_Exercise
+[Flying Saucer] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_059_DurrburgerHero.Glider_ID_059_DurrburgerHero
+[Laser Chomp] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_058_Shark.Glider_ID_058_Shark
+[Servo] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_057_ModernMilitary.Glider_ID_057_ModernMilitary
+[Aurora] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_056_CarbideWhite.Glider_ID_056_CarbideWhite
+[Downshift] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_055_StreetRacerBlack.Glider_ID_055_StreetRacerBlack
+[Helium] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_054_Douyu.Glider_ID_054_Douyu
+[Rush] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_053_Huya.Glider_ID_053_Huya
+[Rhinestone Rider] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_052_Bedazzled.Glider_ID_052_Bedazzled
+[Libre] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_051_Luchador.Glider_ID_051_Luchador
+[Cruiser] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_050_StreetRacerCobra.Glider_ID_050_StreetRacerCobra
+[Splashdown] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_049_Lifeguard.Glider_ID_049_Lifeguard
+[Conquest] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_048_Viking.Glider_ID_048_Viking
+[Forerunner] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_047_SpeedyRed.Glider_ID_047_SpeedyRed
+[Viceroy Mark I] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_046_Gumshoe.Glider_ID_046_Gumshoe
+[Terminus] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_045_CarbideBlack.Glider_ID_045_CarbideBlack
+[Pterodactyl] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_044_Pterodactyl.Glider_ID_044_Pterodactyl
+[Split Wing] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_043_DarkNinja.Glider_ID_043_DarkNinja
+[Goalbound] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_042_Soccer.Glider_ID_042_Soccer
+[Hang Time] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_041_Basketball.Glider_ID_041_Basketball
+[Starry Flight] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_040_Jailbird.Glider_ID_040_Jailbird
+[Venus Flyer] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_039_Venus.Glider_ID_039_Venus
+[Triumph] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_038_Deco.Glider_ID_038_Deco
+[Meltdown] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_037_Hazmat.Glider_ID_037_Hazmat
+[Glow Rider] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_036_AuroraGlow.Glider_ID_036_AuroraGlow
+[Sugar Crash] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_035_Candy.Glider_ID_035_Candy
+[Intrepid] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_034_CarbideBlue.Glider_ID_034_CarbideBlue
+[Wings of Valor] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_033_Valor.Glider_ID_033_Valor
+[Field Flyer ] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_032_TacticalWoodland.Glider_ID_032_TacticalWoodland
+[Solid Strider] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_031_Metal.Glider_ID_031_Metal
+[Mainframe] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_030_CircuitBreaker.Glider_ID_030_CircuitBreaker
+[Fossil Flyer] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_029_PajamaParty.Glider_ID_029_PajamaParty
+[Googly] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_028_Googly.Glider_ID_028_Googly
+[Planetary Probe] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_027_Satelite.Glider_ID_027_Satelite
+[Deep Space Lander] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_026_ShuttleB.Glider_ID_026_ShuttleB
+[Orbital Shuttle] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_025_ShuttleA.Glider_ID_025_ShuttleA
+[Feathered Flyer] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_024_Reaper.Glider_ID_024_Reaper
+[Storm Sigil] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_023_CuChulainn.Glider_ID_023_CuChulainn
+[Stage Dive] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_022_RockerPunk.Glider_ID_022_RockerPunk
+[Rusty Rider] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_021_Scavenger.Glider_ID_021_Scavenger
+[Fighter Kite] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_020_Fighter.Glider_ID_020_Fighter
+[Checker] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_019_Taxi.Glider_ID_019_Taxi
+[Slipstream] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_018_Twitch.Glider_ID_018_Twitch
+[High Octane] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_017_Assassin.Glider_ID_017_Assassin
+[Carbon] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_016_Tactical.Glider_ID_016_Tactical
+[Rainbow Rider] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_015_Brite.Glider_ID_015_Brite
+[Royale Dragon] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_014_Dragon.Glider_ID_014_Dragon
+[Blue Streak] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_013_PSBlue.Glider_ID_013_PSBlue
+[Bear Force One] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_012_TeddyBear.Glider_ID_012_TeddyBear
+[Jolly Roger] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_011_JollyRoger.Glider_ID_011_JollyRoger
+[Cloud Strike] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_010_Storm.Glider_ID_010_Storm
+[Gum Drop] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_009_CandyCoat.Glider_ID_009_CandyCoat
+[Zephyr] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_008_Graffiti.Glider_ID_008_Graffiti
+[Half Shell] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_007_TurtleShell.Glider_ID_007_TurtleShell
+[Snow Squall] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_006_WinterCamo.Glider_ID_006_WinterCamo
+[Cozy Coaster] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_005_HolidaySweater.Glider_ID_005_HolidaySweater
+[Get Down!] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_004_Disco.Glider_ID_004_Disco
+[Royale X] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_003_District.Glider_ID_003_District
+[Sir Glider the Brave] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_002_Medieval.Glider_ID_002_Medieval
+[Aerial Assault One] /Game/Athena/Items/Cosmetics/Gliders/Glider_ID_001.Glider_ID_001
+[Petunia] /Game/Athena/Items/Cosmetics/Gliders/Glider_FlowerPOwer.Glider_FlowerPower
+[Hot Rod] /Game/Athena/Items/Cosmetics/Gliders/Glider_Flames.Glider_Flames
+[Modern] /Game/Athena/Items/Cosmetics/Gliders/Glider_Bold.Glider_Bold
+[Founder's Umbrella] /Game/Athena/Items/Cosmetics/Gliders/FounderUmbrella.FounderUmbrella
+[Founder's Glider] /Game/Athena/Items/Cosmetics/Gliders/FounderGlider.FounderGlider
+[Glider] /Game/Athena/Items/Cosmetics/Gliders/DynamicsTestGlider.DynamicsTestGlider
+[Duo Umbrella] /Game/Athena/Items/Cosmetics/Gliders/Duo_Umbrella.Duo_Umbrella
+[Dev Test Asset] /Game/Athena/Items/Cosmetics/Gliders/Dev_TestAsset.Dev_TestAsset

@@ -1,0 +1,369 @@
+Fortnite Version 10.400000
+
+[Random] /Game/Athena/Items/Cosmetics/Backpacks/BID_Random.BID_Random
+[Claptrap] /Game/Athena/Items/Cosmetics/PetCarriers/PetCarrier_013_BbqLarry.PetCarrier_013_BbqLarry
+[Kitsune] /Game/Athena/Items/Cosmetics/PetCarriers/PetCarrier_012_Drift_Fox.PetCarrier_012_Drift_Fox
+[Gunner] /Game/Athena/Items/Cosmetics/PetCarriers/PetCarrier_011_Dog_Raptor.PetCarrier_011_Dog_Raptor
+[Kyo] /Game/Athena/Items/Cosmetics/PetCarriers/PetCarrier_010_RoboKitty.PetCarrier_010_RoboKitty
+[Empress] /Game/Athena/Items/Cosmetics/PetCarriers/PetCarrier_009_Cat.PetCarrier_009_Cat
+[Dodger] /Game/Athena/Items/Cosmetics/PetCarriers/PetCarrier_008_Fox.PetCarrier_008_Fox
+[Woodsy] /Game/Athena/Items/Cosmetics/PetCarriers/PetCarrier_007_Woodsy.PetCarrier_007_Woodsy
+[Merry Munchkin] /Game/Athena/Items/Cosmetics/PetCarriers/PetCarrier_006_Gingerbread.PetCarrier_006_Gingerbread
+[Remus] /Game/Athena/Items/Cosmetics/PetCarriers/PetCarrier_005_Wolf.PetCarrier_005_Wolf
+[Hamirez] /Game/Athena/Items/Cosmetics/PetCarriers/PetCarrier_004_Hamster.PetCarrier_004_Hamster
+[Scales] /Game/Athena/Items/Cosmetics/PetCarriers/PetCarrier_003_Dragon.PetCarrier_003_Dragon
+[Camo] /Game/Athena/Items/Cosmetics/PetCarriers/PetCarrier_002_Chameleon.PetCarrier_002_Chameleon
+[Bonesy] /Game/Athena/Items/Cosmetics/PetCarriers/PetCarrier_001_Dog.PetCarrier_001_Dog
+[Heartless] /Game/Athena/Items/Cosmetics/Backpacks/BID_365_MascotMilitiaCuddle.BID_365_MascotMilitiaCuddle
+[Llamacorn Shield] /Game/Athena/Items/Cosmetics/Backpacks/BID_364_LlamaHero.BID_364_LlamaHero
+[Batman Comic Book Cape] /Game/Athena/Items/Cosmetics/Backpacks/BID_362_BlackMondayHouston_2I53G.BID_362_BlackMondayHouston_2I53G
+[Jeweled Cat] /Game/Athena/Items/Cosmetics/Backpacks/BID_361_BlackMondayFemale_R0P2N.BID_361_BlackMondayFemale_R0P2N
+[The Dark Knight Movie Cloak] /Game/Athena/Items/Cosmetics/Backpacks/BID_360_BlackMondayKansas_VCZ9M.BID_360_BlackMondayKansas_VCZ9M
+[Star Surge] /Game/Athena/Items/Cosmetics/Backpacks/BID_359_MeteorManRemix.BID_359_MeteorManRemix
+[Pry Pack] /Game/Athena/Items/Cosmetics/Backpacks/BID_358_StreetUrchin.BID_358_StreetUrchin
+[Dreamer] /Game/Athena/Items/Cosmetics/Backpacks/BID_357_Sleepytime.BID_357_Sleepytime
+[Moose] /Game/Athena/Items/Cosmetics/Backpacks/BID_356_Punchy.BID_356_Punchy
+[Turbocoil] /Game/Athena/Items/Cosmetics/Backpacks/BID_355_Jumpstart.BID_355_Jumpstart
+[Red Alert] /Game/Athena/Items/Cosmetics/Backpacks/BID_354_StreetFashionRed.BID_354_StreetFashionRed
+[Starlet] /Game/Athena/Items/Cosmetics/Backpacks/BID_353_StreetGothCandy.BID_353_StreetGothCandy
+[Set_03_BA] /Game/Athena/Items/Cosmetics/Backpacks/BID_352_CupidFemale.BID_352_CupidFemale
+[Spiked Shell] /Game/Athena/Items/Cosmetics/Backpacks/BID_351_FutureBikerWhite.BID_351_FutureBikerWhite
+[Motocase] /Game/Athena/Items/Cosmetics/Backpacks/BID_350_TacticalBiker.BID_350_TacticalBiker
+[Containment Pack] /Game/Athena/Items/Cosmetics/Backpacks/BID_349_RaptorBlackOps.BID_349_RaptorBlackOps
+[Stronghold ] /Game/Athena/Items/Cosmetics/Backpacks/BID_348_PaddedArmor.BID_348_PaddedArmor
+[Rogue Spider Shield] /Game/Athena/Items/Cosmetics/Backpacks/BID_346_BlackWidowRogue.BID_346_BlackWidowRogue
+[Toxic Kitty] /Game/Athena/Items/Cosmetics/Backpacks/BID_345_ToxicKitty.BID_345_ToxicKitty
+[Wild Cube] /Game/Athena/Items/Cosmetics/Backpacks/BID_344_CubeWildCard.BID_344_CubeWildCard
+[Dark Shield] /Game/Athena/Items/Cosmetics/Backpacks/BID_343_CubeRedKnight.BID_343_CubeRedKnight
+[Wedge] /Game/Athena/Items/Cosmetics/Backpacks/BID_342_LemonLime.BID_342_LemonLime
+[Kunai Shield] /Game/Athena/Items/Cosmetics/Backpacks/BID_340_WiseMaster.BID_340_WiseMaster
+[Exo-Spine] /Game/Athena/Items/Cosmetics/Backpacks/BID_339_Syko.BID_339_Syko
+[Starfield] /Game/Athena/Items/Cosmetics/Backpacks/BID_338_StarWalker.BID_338_StarWalker
+[TomCom] /Game/Athena/Items/Cosmetics/Backpacks/BID_337_MascotMilitiaTomato.BID_337_MascotMilitiaTomato
+[Takeout] /Game/Athena/Items/Cosmetics/Backpacks/BID_336_MascotMilitiaBurger.BID_336_MascotMilitiaBurger
+[Foxpack] /Game/Athena/Items/Cosmetics/Backpacks/BID_335_Lopex.BID_335_Lopex
+[Banner Shield] /Game/Athena/Items/Cosmetics/Backpacks/BID_334_BannerMale.BID_334_BannerMale
+[Backbeat] /Game/Athena/Items/Cosmetics/Backpacks/BID_333_Reverb.BID_333_Reverb
+[Starcrest Flux] /Game/Athena/Items/Cosmetics/Backpacks/BID_332_FrostMystery.BID_332_FrostMystery
+[Starcrest Shift] /Game/Athena/Items/Cosmetics/Backpacks/BID_331_DarkNinjaWhite.BID_331_DarkNinjaWhite
+[Xenopod] /Game/Athena/Items/Cosmetics/Backpacks/BID_330_AstronautEvilUpgrade.BID_330_AstronautEvilUpgrade
+[Grande Pack] /Game/Athena/Items/Cosmetics/Backpacks/BID_329_WildWestFemale.BID_329_WildWestFemale
+[Detonator] /Game/Athena/Items/Cosmetics/Backpacks/BID_328_WildWest.BID_328_WildWest
+[Rift Rock] /Game/Athena/Items/Cosmetics/Backpacks/BID_327_Meteorite.BID_327_Meteorite
+[Bronto Bag] /Game/Athena/Items/Cosmetics/Backpacks/BID_326_Bronto.BID_326_Bronto
+[Primal Danger] /Game/Athena/Items/Cosmetics/Backpacks/BID_325_BoneWasp.BID_325_BoneWasp
+[Tri-Pack] /Game/Athena/Items/Cosmetics/Backpacks/BID_324_BlueBadass.BID_324_BlueBadass
+[Golden Disco] /Game/Athena/Items/Cosmetics/Backpacks/BID_323_FunkOpsRemix.BID_323_FunkOpsRemix
+[Gameplan] /Game/Athena/Items/Cosmetics/Backpacks/BID_322_VoyagerRemix.BID_322_VoyagerRemix
+[Trophy Sack] /Game/Athena/Items/Cosmetics/Backpacks/BID_321_RustLordRemixScavenger.BID_321_RustLordRemixScavenger
+[Spiked Satchel] /Game/Athena/Items/Cosmetics/Backpacks/BID_320_RustLordRemix.BID_320_RustLordRemix
+[Atmosphere] /Game/Athena/Items/Cosmetics/Backpacks/BID_319_StreetRacerDriftRemix.BID_319_StreetRacerDriftRemix
+[Star Shot] /Game/Athena/Items/Cosmetics/Backpacks/BID_318_SparkleRemix.BID_318_SparkleRemix
+[Dragoncrest] /Game/Athena/Items/Cosmetics/Backpacks/BID_317_KnightRemix.BID_317_KnightRemix
+[Paint Pack] /Game/Athena/Items/Cosmetics/Backpacks/BID_316_GraffitiRemix.BID_316_GraffitiRemix
+[Cheesy] /Game/Athena/Items/Cosmetics/Backpacks/BID_315_PizzaPit.BID_315_PizzaPit
+[Geode] /Game/Athena/Items/Cosmetics/Backpacks/BID_314_Geode.BID_314_Geode
+[Bubble Blast] /Game/Athena/Items/Cosmetics/Backpacks/BID_313_Bubblegum.BID_313_Bubblegum
+[Prospect] /Game/Athena/Items/Cosmetics/Backpacks/BID_312_Stealth.BID_312_Stealth
+[Jet Set] /Game/Athena/Items/Cosmetics/Backpacks/BID_311_Multibot.BID_311_Multibot
+[Lazer Wings] /Game/Athena/Items/Cosmetics/Backpacks/BID_310_Lasagna.BID_310_Lasagna
+[Striped Stalker] /Game/Athena/Items/Cosmetics/Backpacks/BID_309_CyberKarateMale.BID_309_CyberKarateMale
+[Tahna] /Game/Athena/Items/Cosmetics/Backpacks/BID_308_CyberKarateFemale.BID_308_CyberKarateFemale
+[Mochi] /Game/Athena/Items/Cosmetics/Backpacks/BID_307_Bani.BID_307_Bani
+[Color Guard] /Game/Athena/Items/Cosmetics/Backpacks/BID_306_StarAndStripesMale.BID_306_StarAndStripesMale
+[Brave Bag] /Game/Athena/Items/Cosmetics/Backpacks/BID_305_StarAndStripesFemale.BID_305_StarAndStripesFemale
+[Quack Pack] /Game/Athena/Items/Cosmetics/Backpacks/BID_304_Duck.BID_304_Duck
+[Smoothie] /Game/Athena/Items/Cosmetics/Backpacks/BID_303_BananaSmoothie.BID_303_BananaSmoothie
+[Cooler] /Game/Athena/Items/Cosmetics/Backpacks/BID_302_Hairy.BID_302_Hairy
+[Tiny Totem] /Game/Athena/Items/Cosmetics/Backpacks/BID_301_HeistSummer.BID_301_HeistSummer
+[Oozie] /Game/Athena/Items/Cosmetics/Backpacks/BID_300_DriftSummer.BID_300_DriftSummer
+[Brite Board] /Game/Athena/Items/Cosmetics/Backpacks/BID_299_BriteBomberSummer.BID_299_BriteBomberSummer
+[Glow Jet] /Game/Athena/Items/Cosmetics/Backpacks/BID_298_ZodiacFemale.BID_298_ZodiacFemale
+[Streamline] /Game/Athena/Items/Cosmetics/Backpacks/BID_297_SpaceGirl.BID_297_SpaceGirl
+[Floral Shell] /Game/Athena/Items/Cosmetics/Backpacks/BID_296_Sarong.BID_296_Sarong
+[Anemone] /Game/Athena/Items/Cosmetics/Backpacks/BID_295_Jellyfish.BID_295_Jellyfish
+[Lumi Core Green] /Game/Athena/Items/Cosmetics/Backpacks/BID_294_GlowBroMale.BID_294_GlowBroMale
+[Lumi Core Red] /Game/Athena/Items/Cosmetics/Backpacks/BID_293_GlowBroFemale.BID_293_GlowBroFemale
+[Chuck Pack] /Game/Athena/Items/Cosmetics/Backpacks/BID_292_CyberFuFemale.BID_292_CyberFuFemale
+[Carapace] /Game/Athena/Items/Cosmetics/Backpacks/BID_291_Caterpillar.BID_291_Caterpillar
+[Flutter Wings] /Game/Athena/Items/Cosmetics/Backpacks/BID_290_Butterfly.BID_290_Butterfly
+[Banner Cape] /Game/Athena/Items/Cosmetics/Backpacks/BID_289_Banner.BID_289_Banner
+[Neo Phrenzy] /Game/Athena/Items/Cosmetics/Backpacks/BID_288_CyberScavengerFemaleBlue.BID_288_CyberScavengerFemaleBlue
+[Shadowbird Wings] /Game/Athena/Items/Cosmetics/Backpacks/BID_287_AztecFemaleEclipse.BID_287_AztecFemaleEclipse
+[Perfect Wings] /Game/Athena/Items/Cosmetics/Backpacks/BID_286_WinterGhoulMaleEclipse.BID_286_WinterGhoulMaleEclipse
+[Stark Satchel] /Game/Athena/Items/Cosmetics/Backpacks/BID_285_SkullBriteEclipse.BID_285_SkullBriteEclipse
+[Signal Jammer] /Game/Athena/Items/Cosmetics/Backpacks/BID_284_NeonLines.BID_284_NeonLines
+[Lightning Cloak] /Game/Athena/Items/Cosmetics/Backpacks/BID_283_StormSoldier.BID_283_StormSoldier
+[Utility Pack] /Game/Athena/Items/Cosmetics/Backpacks/BID_282_UrbanScavenger.BID_282_UrbanScavenger
+[Ocular] /Game/Athena/Items/Cosmetics/Backpacks/BID_281_DemonHunterMale.BID_281_DemonHunterMale
+[Hexxed] /Game/Athena/Items/Cosmetics/Backpacks/BID_280_DemonHunterFemale.BID_280_DemonHunterFemale
+[Holo-pack] /Game/Athena/Items/Cosmetics/Backpacks/BID_279_CyberRunner.BID_279_CyberRunner
+[Back Board] /Game/Athena/Items/Cosmetics/Backpacks/BID_278_VigilanteBoard.BID_278_VigilanteBoard
+[Palette Pack] /Game/Athena/Items/Cosmetics/Backpacks/BID_277_WhiteTiger.BID_277_WhiteTiger
+[Chow Down] /Game/Athena/Items/Cosmetics/Backpacks/BID_276_Pug.BID_276_Pug
+[Gaze] /Game/Athena/Items/Cosmetics/Backpacks/BID_275_Geisha.BID_275_Geisha
+[Gold Token] /Game/Athena/Items/Cosmetics/Backpacks/BID_273_AssassinSuitCoin.BID_273_AssassinSuitCoin
+[Gun Bag] /Game/Athena/Items/Cosmetics/Backpacks/BID_272_AssassinSuitFemale.BID_272_AssassinSuitFemale
+[Assassin Pack] /Game/Athena/Items/Cosmetics/Backpacks/BID_271_AssassinSuitMale.BID_271_AssassinSuitMale
+[Spectral Spine] /Game/Athena/Items/Cosmetics/Backpacks/BID_270_StreetDemon.BID_270_StreetDemon
+[Bomber bag] /Game/Athena/Items/Cosmetics/Backpacks/BID_269_RaptorFemale.BID_269_RaptorFemale
+[Phrenzy] /Game/Athena/Items/Cosmetics/Backpacks/BID_268_CyberScavengerFemale.BID_268_CyberScavengerFemale
+[CnXn] /Game/Athena/Items/Cosmetics/Backpacks/BID_267_CyberScavengerMale.BID_267_CyberScavengerMale
+[Nana Cape] /Game/Athena/Items/Cosmetics/Backpacks/BID_266_BunkerMan.BID_266_BunkerMan
+[Retribution] /Game/Athena/Items/Cosmetics/Backpacks/BID_265_BattleSuit.BID_265_BattleSuit
+[Backtracker] /Game/Athena/Items/Cosmetics/Backpacks/BID_264_StormTracker.BID_264_StormTracker
+[Scarlet Edge] /Game/Athena/Items/Cosmetics/Backpacks/BID_263_Masako.BID_263_Masako
+[Go bag] /Game/Athena/Items/Cosmetics/Backpacks/BID_262_BountyHunterFemale.BID_262_BountyHunterFemale
+[Hot Wing] /Game/Athena/Items/Cosmetics/Backpacks/BID_261_Rooster.BID_261_Rooster
+[Star-Lord Pack] /Game/Athena/Items/Cosmetics/Backpacks/BID_259_Ashton_SaltLake.BID_259_Ashton_SaltLake
+[Widow?s Pack ] /Game/Athena/Items/Cosmetics/Backpacks/BID_258_AshtonBoardwalk.BID_258_AshtonBoardwalk
+[Slice 'n dice] /Game/Athena/Items/Cosmetics/Backpacks/BID_257_Swashbuckler.BID_257_Swashbuckler
+[Shattered Wing] /Game/Athena/Items/Cosmetics/Backpacks/BID_256_ShatterFly.BID_256_ShatterFly
+[Lunar Light] /Game/Athena/Items/Cosmetics/Backpacks/BID_255_MoonlightAssassin.BID_255_MoonlightAssassin
+[Diamond Star] /Game/Athena/Items/Cosmetics/Backpacks/BID_254_ShinyMale.BID_254_ShinyMale
+[Bunny Bag] /Game/Athena/Items/Cosmetics/Backpacks/BID_253_HoppityHeist.BID_253_HoppityHeist
+[Floppy] /Game/Athena/Items/Cosmetics/Backpacks/BID_252_EvilBunny.BID_252_EvilBunny
+[Cryo Hops] /Game/Athena/Items/Cosmetics/Backpacks/BID_251_SpaceBunny.BID_251_SpaceBunny
+[Volatile] /Game/Athena/Items/Cosmetics/Backpacks/BID_250_TheBomb.BID_250_TheBomb
+[Stealth Response Unit] /Game/Athena/Items/Cosmetics/Backpacks/BID_249_StreetOpsStealth.BID_249_StreetOpsStealth
+[Gauge] /Game/Athena/Items/Cosmetics/Backpacks/BID_248_Pilots.BID_248_Pilots
+[Bladed Bag] /Game/Athena/Items/Cosmetics/Backpacks/BID_247_StreetAssassin.BID_247_StreetAssassin
+[Strike Zone] /Game/Athena/Items/Cosmetics/Backpacks/BID_246_BaseballKitbashMale.BID_246_BaseballKitbashMale
+[Double Play] /Game/Athena/Items/Cosmetics/Backpacks/BID_245_BaseballKitbashFemale.BID_245_BaseballKitbashFemale
+[Molten Valkyrie Wings] /Game/Athena/Items/Cosmetics/Backpacks/BID_244_DarkVikingFire.BID_244_DarkVikingFire
+[Molten Crested Cape] /Game/Athena/Items/Cosmetics/Backpacks/BID_243_BattleHoundFire.BID_243_BattleHoundFire
+[Dying Light] /Game/Athena/Items/Cosmetics/Backpacks/BID_242_FurnaceFace.BID_242_FurnaceFace
+[Cuddle Doll] /Game/Athena/Items/Cosmetics/Backpacks/BID_241_DarkShamanFemale.BID_241_DarkShamanFemale
+[Battle Mask] /Game/Athena/Items/Cosmetics/Backpacks/BID_240_DarkShamanMale.BID_240_DarkShamanMale
+[Barrel & Booty] /Game/Athena/Items/Cosmetics/Backpacks/BID_238_Pirate02Male.BID_238_Pirate02Male
+[Seaworthy] /Game/Athena/Items/Cosmetics/Backpacks/BID_236_Pirate01Female.BID_236_Pirate01Female
+[Crystal Llama] /Game/Athena/Items/Cosmetics/Backpacks/BID_235_Heist.BID_235_Heist
+[Dark Deflector] /Game/Athena/Items/Cosmetics/Backpacks/BID_234_SpeedyMidnight.BID_234_SpeedyMidnight
+[Malice Wings] /Game/Athena/Items/Cosmetics/Backpacks/BID_233_DevilRock.BID_233_DevilRock
+[Lucky Coins] /Game/Athena/Items/Cosmetics/Backpacks/BID_232_Leprechaun.BID_232_Leprechaun
+[Pineapple Strummer] /Game/Athena/Items/Cosmetics/Backpacks/BID_231_TropicalFemale.BID_231_TropicalFemale
+[Banana Bag] /Game/Athena/Items/Cosmetics/Backpacks/BID_230_TropicalMale.BID_230_TropicalMale
+[Rainbow Clover] /Game/Athena/Items/Cosmetics/Backpacks/BID_229_LuckyRiderMale.BID_229_LuckyRiderMale
+[Commission] /Game/Athena/Items/Cosmetics/Backpacks/BID_228_SciOpsMale.BID_228_SciOpsMale
+[Omission] /Game/Athena/Items/Cosmetics/Backpacks/BID_227_SciOpsFemale.BID_227_SciOpsFemale
+[Dual Kama] /Game/Athena/Items/Cosmetics/Backpacks/BID_226_BandageNinjaFemale.BID_226_BandageNinjaFemale
+[Katana & Kunai] /Game/Athena/Items/Cosmetics/Backpacks/BID_225_BandageNinjaMale.BID_225_BandageNinjaMale
+[Carbon Pack] /Game/Athena/Items/Cosmetics/Backpacks/BID_224_TechOpsBlue.BID_224_TechOpsBlue
+[Oscilloscope] /Game/Athena/Items/Cosmetics/Backpacks/BID_223_OrangeCamo.BID_223_OrangeCamo
+[Sun Wings] /Game/Athena/Items/Cosmetics/Backpacks/BID_222_AztecFemale.BID_222_AztecFemale
+[Hypnotic] /Game/Athena/Items/Cosmetics/Backpacks/BID_221_AztecMale.BID_221_AztecMale
+[Sun Sprout] /Game/Athena/Items/Cosmetics/Backpacks/BID_220_FarmerFemale.BID_220_FarmerFemale
+[Haystacks] /Game/Athena/Items/Cosmetics/Backpacks/BID_219_FarmerMale.BID_219_FarmerMale
+[Cobra] /Game/Athena/Items/Cosmetics/Backpacks/BID_218_Medusa.BID_218_Medusa
+[High Caliber] /Game/Athena/Items/Cosmetics/Backpacks/BID_217_ShinyFemale.BID_217_ShinyFemale
+[Mutiny] /Game/Athena/Items/Cosmetics/Backpacks/BID_216_PirateProgressive.BID_216_PirateProgressive
+[Master Portal] /Game/Athena/Items/Cosmetics/Backpacks/BID_215_MasterKey.BID_215_MasterKey
+[Sweetheart] /Game/Athena/Items/Cosmetics/Backpacks/BID_214_LoveLlama.BID_214_LoveLlama
+[Sno Cone] /Game/Athena/Items/Cosmetics/Backpacks/BID_213_IceCream.BID_213_IceCream
+[Skully Satchel] /Game/Athena/Items/Cosmetics/Backpacks/BID_211_SkullBrite.BID_211_SkullBrite
+[Cannister Carrier] /Game/Athena/Items/Cosmetics/Backpacks/BID_210_RobotTroubleFemale.BID_210_RobotTroubleFemale
+[Board Bag] /Game/Athena/Items/Cosmetics/Backpacks/BID_209_RobotTroubleMale.BID_209_RobotTroubleMale
+[Fallen Wings] /Game/Athena/Items/Cosmetics/Backpacks/BID_208_CupidDarkMale.BID_208_CupidDarkMale
+[Scrappy] /Game/Athena/Items/Cosmetics/Backpacks/BID_206_ScrapyardFemale.BID_206_ScrapyardFemale
+[Trash Lid] /Game/Athena/Items/Cosmetics/Backpacks/BID_205_ScrapyardMale.BID_205_ScrapyardMale
+[Used Racket] /Game/Athena/Items/Cosmetics/Backpacks/BID_204_TennisFemale.BID_204_TennisFemale
+[Reinforced Backplate] /Game/Athena/Items/Cosmetics/Backpacks/BID_203_BlueMystery.BID_203_BlueMystery
+[Twistie Inflator] /Game/Athena/Items/Cosmetics/Backpacks/BID_202_WavyManFemale.BID_202_WavyManFemale
+[Bendie Inflator] /Game/Athena/Items/Cosmetics/Backpacks/BID_201_WavyManMale.BID_201_WavyManMale
+[Snowbrand] /Game/Athena/Items/Cosmetics/Backpacks/BID_200_SnowNinjaFemale.BID_200_SnowNinjaFemale
+[Ice Spikes] /Game/Athena/Items/Cosmetics/Backpacks/BID_199_IceQueen.BID_199_IceQueen
+[Capacitor] /Game/Athena/Items/Cosmetics/Backpacks/BID_198_TechOps.BID_198_TechOps
+[Runic Shield] /Game/Athena/Items/Cosmetics/Backpacks/BID_197_BarbarianFemale.BID_197_BarbarianFemale
+[Emblazoned Buckler] /Game/Athena/Items/Cosmetics/Backpacks/BID_196_BarbarianMale.BID_196_BarbarianMale
+[Disco Ball] /Game/Athena/Items/Cosmetics/Backpacks/BID_195_FunkOpsFemale.BID_195_FunkOpsFemale
+[Brat Bag] /Game/Athena/Items/Cosmetics/Backpacks/BID_194_Krampus.BID_194_Krampus
+[Saltwater Satchel] /Game/Athena/Items/Cosmetics/Backpacks/BID_193_TeriyakiFishMale.BID_193_TeriyakiFishMale
+[Combat Wreath] /Game/Athena/Items/Cosmetics/Backpacks/BID_192_WinterHolidayFemale.BID_192_WinterHolidayFemale
+[Shadow Wings] /Game/Athena/Items/Cosmetics/Backpacks/BID_191_WinterGhoulMale.BID_191_WinterGhoulMale
+[Stitches] /Game/Athena/Items/Cosmetics/Backpacks/BID_190_StreetGothFemale.BID_190_StreetGothFemale
+[Eternal] /Game/Athena/Items/Cosmetics/Backpacks/BID_189_StreetGothMale.BID_189_StreetGothMale
+[Glow Show] /Game/Athena/Items/Cosmetics/Backpacks/BID_188_FortniteDJFemale.BID_188_FortniteDJFemale
+[Giddy Gunner] /Game/Athena/Items/Cosmetics/Backpacks/BID_187_GingerbreadFemale.BID_187_GingerbreadFemale
+[Mini Marauder] /Game/Athena/Items/Cosmetics/Backpacks/BID_186_GingerbreadMale.BID_186_GingerbreadMale
+[Luminous Lamp] /Game/Athena/Items/Cosmetics/Backpacks/BID_185_GnomeMale.BID_185_GnomeMale
+[Flutterfrost] /Game/Athena/Items/Cosmetics/Backpacks/BID_184_SnowFairyFemale.BID_184_SnowFairyFemale
+[Snackshot] /Game/Athena/Items/Cosmetics/Backpacks/BID_183_NutcrackerFemale.BID_183_NutcrackerFemale
+[Birdshot] /Game/Athena/Items/Cosmetics/Backpacks/BID_182_NutcrackerMale.BID_182_NutcrackerMale
+[Snow Star] /Game/Athena/Items/Cosmetics/Backpacks/BID_181_SnowNinjaMale.BID_181_SnowNinjaMale
+[Glimmering Cloak] /Game/Athena/Items/Cosmetics/Backpacks/BID_180_IceMaiden.BID_180_IceMaiden
+[Malcore Wings] /Game/Athena/Items/Cosmetics/Backpacks/BID_179_DemonMale.BID_179_DemonMale
+[Ark Wings] /Game/Athena/Items/Cosmetics/Backpacks/BID_178_Angel.BID_178_Angel
+[Octotank] /Game/Athena/Items/Cosmetics/Backpacks/BID_177_NautilusFemale.BID_177_NautilusFemale
+[Rebreather] /Game/Athena/Items/Cosmetics/Backpacks/BID_176_NautilusMale.BID_176_NautilusMale
+[Padlock] /Game/Athena/Items/Cosmetics/Backpacks/BID_175_Prisoner.BID_175_Prisoner
+[V6] /Game/Athena/Items/Cosmetics/Backpacks/BID_171_Rhino.BID_171_Rhino
+[Techie] /Game/Athena/Items/Cosmetics/Backpacks/BID_170_MathFemale.BID_170_MathFemale
+[Tabulator] /Game/Athena/Items/Cosmetics/Backpacks/BID_169_MathMale.BID_169_MathMale
+[Frozen Love Wings] /Game/Athena/Items/Cosmetics/Backpacks/BID_168_CupidWinterMale.BID_168_CupidWinterMale
+[Frozen Red Shield] /Game/Athena/Items/Cosmetics/Backpacks/BID_167_RedKnightWinterFemale.BID_167_RedKnightWinterFemale
+[Frozen Iron Cage] /Game/Athena/Items/Cosmetics/Backpacks/BID_166_RavenWinterMale.BID_166_RavenWinterMale
+[Signal Hub] /Game/Athena/Items/Cosmetics/Backpacks/BID_165_BlueBadassFemale.BID_165_BlueBadassFemale
+[Slushy Jr.] /Game/Athena/Items/Cosmetics/Backpacks/BID_164_SnowmanMale.BID_164_SnowmanMale
+[Ice Mantle] /Game/Athena/Items/Cosmetics/Backpacks/BID_163_IceKing.BID_163_IceKing
+[Ice Cube] /Game/Athena/Items/Cosmetics/Backpacks/BID_162_YetiMale.BID_162_YetiMale
+[Trail Tote] /Game/Athena/Items/Cosmetics/Backpacks/BID_161_SnowBoardFemale.BID_161_SnowBoardFemale
+[Perfect Present] /Game/Athena/Items/Cosmetics/Backpacks/BID_160_TacticalSantaMale.BID_160_TacticalSantaMale
+[Altitude] /Game/Athena/Items/Cosmetics/Backpacks/BID_158_ArcticSniperMale.BID_158_ArcticSniperMale
+[Wingback] /Game/Athena/Items/Cosmetics/Backpacks/BID_157_MothMale.BID_157_MothMale
+[Sight Sling] /Game/Athena/Items/Cosmetics/Backpacks/BID_156_SniperHoodFemale.BID_156_SniperHoodFemale
+[Scope Satchel] /Game/Athena/Items/Cosmetics/Backpacks/BID_155_SniperHoodMale.BID_155_SniperHoodMale
+[Hatchback] /Game/Athena/Items/Cosmetics/Backpacks/BID_154_Feathers.BID_154_Feathers
+[White Fang] /Game/Athena/Items/Cosmetics/Backpacks/BID_153_HornedMaskFemale.BID_153_HornedMaskFemale
+[Trusty Tusks] /Game/Athena/Items/Cosmetics/Backpacks/BID_152_HornedMaskMale.BID_152_HornedMaskMale
+[Shrimpy] /Game/Athena/Items/Cosmetics/Backpacks/BID_151_SushiChefFemale.BID_151_SushiChefFemale
+[Tome Pouch] /Game/Athena/Items/Cosmetics/Backpacks/BID_150_Witch.BID_150_Witch
+[Spellbinder] /Game/Athena/Items/Cosmetics/Backpacks/BID_149_Wizard.BID_149_Wizard
+[E.L.I.M.] /Game/Athena/Items/Cosmetics/Backpacks/BID_148_RobotRed.BID_148_RobotRed
+[Lil' Kev] /Game/Athena/Items/Cosmetics/Backpacks/BID_147_LilKev.BID_147_LilKev
+[Nibbles] /Game/Athena/Items/Cosmetics/Backpacks/BID_146_AnimalJacketsFemale.BID_146_AnimalJacketsFemale
+[Woofs] /Game/Athena/Items/Cosmetics/Backpacks/BID_145_AnimalJacketsMale.BID_145_AnimalJacketsMale
+[Puncture Pack] /Game/Athena/Items/Cosmetics/Backpacks/BID_144_MadCommanderFemale.BID_144_MadCommanderFemale
+[Spike Chamber] /Game/Athena/Items/Cosmetics/Backpacks/BID_143_MadCommanderMale.BID_143_MadCommanderMale
+[Bladed Wings] /Game/Athena/Items/Cosmetics/Backpacks/BID_142_SamuraiUltra.BID_142_SamuraiUltra
+[Freezing Point] /Game/Athena/Items/Cosmetics/Backpacks/BID_142_RaptorArcticCamo.BID_142_RaptorArcticCamo
+[Reaction Tank] /Game/Athena/Items/Cosmetics/Backpacks/BID_141_StreetOpsFemale.BID_141_StreetOpsFemale
+[Response Unit] /Game/Athena/Items/Cosmetics/Backpacks/BID_140_StreetOpsMale.BID_140_StreetOpsMale
+[Goodie Gourd] /Game/Athena/Items/Cosmetics/Backpacks/BID_139_FuzzyBearHalloween.BID_139_FuzzyBearHalloween
+[Galactic Disc] /Game/Athena/Items/Cosmetics/Backpacks/BID_138_Celestial.BID_138_Celestial
+[Shackled Stone] /Game/Athena/Items/Cosmetics/Backpacks/BID_137_EvilCowboy.BID_137_EvilCowboy
+[Spirit Cape] /Game/Athena/Items/Cosmetics/Backpacks/BID_136_MuertosMale.BID_136_MuertosMale
+[Calavera] /Game/Athena/Items/Cosmetics/Backpacks/BID_135_MuertosFemale.BID_135_MuertosFemale
+[Top Notch] /Game/Athena/Items/Cosmetics/Backpacks/BID_134_MilitaryFashion.BID_134_MilitaryFashion
+[Loyal Shield] /Game/Athena/Items/Cosmetics/Backpacks/BID_133_GuanYu.BID_133_GuanYu
+[Spider Shield] /Game/Athena/Items/Cosmetics/Backpacks/BID_132_BlackWidowMale.BID_132_BlackWidowMale
+[Long Legs] /Game/Athena/Items/Cosmetics/Backpacks/BID_131_BlackWidowfemale.BID_131_BlackWidowfemale
+[Coven Cape] /Game/Athena/Items/Cosmetics/Backpacks/BID_130_VampireMale02.BID_130_VampireMale02
+[Mouldering Cloak] /Game/Athena/Items/Cosmetics/Backpacks/BID_129_PumpkinSlice.BID_129_PumpkinSlice
+[Arcanum] /Game/Athena/Items/Cosmetics/Backpacks/BID_128_PlagueFemale.BID_128_PlagueFemale
+[Dismal Cape] /Game/Athena/Items/Cosmetics/Backpacks/BID_127_PlagueMale.BID_127_PlagueMale
+[Dark Bag] /Game/Athena/Items/Cosmetics/Backpacks/BID_126_DarkBomber.BID_126_DarkBomber
+[Birdhovel] /Game/Athena/Items/Cosmetics/Backpacks/BID_125_ScarecrowFemale.BID_125_ScarecrowFemale
+[Hay Nest] /Game/Athena/Items/Cosmetics/Backpacks/BID_124_ScarecrowMale.BID_124_ScarecrowMale
+[Waveform] /Game/Athena/Items/Cosmetics/Backpacks/BID_123_FortniteDJ.BID_123_FortniteDJ
+[Night Cloak] /Game/Athena/Items/Cosmetics/Backpacks/BID_122_HalloweenTomato.BID_122_HalloweenTomato
+[Fabled Cape] /Game/Athena/Items/Cosmetics/Backpacks/BID_121_RedRiding.BID_121_RedRiding
+[Wolfpack] /Game/Athena/Items/Cosmetics/Backpacks/BID_120_Werewolf.BID_120_Werewolf
+[Dusk Wings] /Game/Athena/Items/Cosmetics/Backpacks/BID_119_VampireFemale.BID_119_VampireFemale
+[Pretzel Protector] /Game/Athena/Items/Cosmetics/Backpacks/BID_118_OctoberfestFemale.BID_118_OctoberfestFemale
+[Clockworks] /Game/Athena/Items/Cosmetics/Backpacks/BID_117_OctoberfestMale.BID_117_OctoberfestMale
+[Airflow] /Game/Athena/Items/Cosmetics/Backpacks/BID_116_DieselpunkFemale.BID_116_DieselpunkFemale
+[Para-Provisions] /Game/Athena/Items/Cosmetics/Backpacks/BID_115_DieselpunkMale.BID_115_DieselpunkMale
+[Telemetry] /Game/Athena/Items/Cosmetics/Backpacks/BID_114_ModernMilitaryRed.BID_114_ModernMilitaryRed
+[Valkyrie Wings] /Game/Athena/Items/Cosmetics/Backpacks/BID_113_DarkVikingFemale.BID_113_DarkVikingFemale
+[Balloon Llama] /Game/Athena/Items/Cosmetics/Backpacks/BID_112_ClownMale.BID_112_ClownMale
+[Battle Balloon] /Game/Athena/Items/Cosmetics/Backpacks/BID_111_ClownFemale.BID_111_ClownFemale
+[Gurney Gear] /Game/Athena/Items/Cosmetics/Backpacks/BID_110_MedicFemale.BID_110_MedicFemale
+[Care Package] /Game/Athena/Items/Cosmetics/Backpacks/BID_109_MedicMale.BID_109_MedicMale
+[Crafted Carrier] /Game/Athena/Items/Cosmetics/Backpacks/BID_108_HacivatMale.BID_108_HacivatMale
+[Cuff Case] /Game/Athena/Items/Cosmetics/Backpacks/BID_108_Blingmale.BID_108_Blingmale
+[Keytar] /Game/Athena/Items/Cosmetics/Backpacks/BID_107_GarageBandFemale.BID_107_GarageBandFemale
+[Kick Drum] /Game/Athena/Items/Cosmetics/Backpacks/BID_106_GarageBandMale.BID_106_GarageBandMale
+[Ghost Portal] /Game/Athena/Items/Cosmetics/Backpacks/BID_105_GhostPortal.BID_105_GhostPortal
+[Vintage] /Game/Athena/Items/Cosmetics/Backpacks/BID_104_YellowZip.BID_104_YellowZip
+[Slashed] /Game/Athena/Items/Cosmetics/Backpacks/BID_103_Clawed.BID_103_Clawed
+[Buckled] /Game/Athena/Items/Cosmetics/Backpacks/BID_102_Buckles.BID_102_Buckles
+[Swag Bag] /Game/Athena/Items/Cosmetics/Backpacks/BID_101_BlingFemale.BID_101_BlingFemale
+[Subjugator] /Game/Athena/Items/Cosmetics/Backpacks/BID_100_DarkPaintballer.BID_100_DarkPaintballer
+[Shiro] /Game/Athena/Items/Cosmetics/Backpacks/BID_099_BlueSamuraiFemale.BID_099_BlueSamuraiFemale
+[Sashimono] /Game/Athena/Items/Cosmetics/Backpacks/BID_098_BlueSamuraiMale.BID_098_BlueSamuraiMale
+[Road Flair] /Game/Athena/Items/Cosmetics/Backpacks/BID_097_BikerFemale.BID_097_BikerFemale
+[Road Ready] /Game/Athena/Items/Cosmetics/Backpacks/BID_096_BikerMale.BID_096_BikerMale
+[Dark Wings] /Game/Athena/Items/Cosmetics/Backpacks/BID_095_RavenQuillFemale.BID_095_RavenQuillFemale
+[Hip Shakers] /Game/Athena/Items/Cosmetics/Backpacks/BID_094_HippieFemale.BID_094_HippieFemale
+[Summer Strummer] /Game/Athena/Items/Cosmetics/Backpacks/BID_093_HippieMale.BID_093_HippieMale
+[Bamboo] /Game/Athena/Items/Cosmetics/Backpacks/BID_092_FuzzyBearPanda.BID_092_FuzzyBearPanda
+[Deep Fried] /Game/Athena/Items/Cosmetics/Backpacks/BID_091_DurrrBurgerHero.BID_091_DurrrBurgerHero
+[Lane Splitter] /Game/Athena/Items/Cosmetics/Backpacks/BID_090_StreetRacerWhiteMale.BID_090_StreetRacerWhiteMale
+[Ignition] /Game/Athena/Items/Cosmetics/Backpacks/BID_089_StreetRacerWhiteFemale.BID_089_StreetRacerWhiteFemale
+[Chef's Choice] /Game/Athena/Items/Cosmetics/Backpacks/BID_088_SushiChefMale.BID_088_SushiChefMale
+[Boombox] /Game/Athena/Items/Cosmetics/Backpacks/BID_087_ExerciseMale.BID_087_ExerciseMale
+[Back Plate] /Game/Athena/Items/Cosmetics/Backpacks/BID_086_ExerciseFemale.BID_086_ExerciseFemale
+[Paradigm] /Game/Athena/Items/Cosmetics/Backpacks/BID_085_ModernMilitary.BID_085_ModernMilitary
+[Birthday Cake] /Game/Athena/Items/Cosmetics/Backpacks/BID_084_Birthday2018.BID_084_Birthday2018
+[Rescue Ring] /Game/Athena/Items/Cosmetics/Backpacks/BID_083_LifeguardMale.BID_083_LifeguardMale
+[Air Tank] /Game/Athena/Items/Cosmetics/Backpacks/BID_082_ScubaFemale.BID_082_ScubaFemale
+[Diving Tank] /Game/Athena/Items/Cosmetics/Backpacks/BID_081_ScubaMale.BID_081_ScubaMale
+[Bat Attitude] /Game/Athena/Items/Cosmetics/Backpacks/BID_080_StreetRacerCobraMale.BID_080_StreetRacerCobraMale
+[Penguin] /Game/Athena/Items/Cosmetics/Backpacks/BID_079_Penguin.BID_079_Penguin
+[Ballistic] /Game/Athena/Items/Cosmetics/Backpacks/BID_078_StreetRacerCobraFemale.BID_078_StreetRacerCobraFemale
+[Insignia] /Game/Athena/Items/Cosmetics/Backpacks/BID_077_WeGame.BID_077_WeGame
+[Shark Fin] /Game/Athena/Items/Cosmetics/Backpacks/BID_076_Shark.BID_076_Shark
+[Uplink] /Game/Athena/Items/Cosmetics/Backpacks/BID_075_TacticalBadass.BID_075_TacticalBadass
+[Pool Party] /Game/Athena/Items/Cosmetics/Backpacks/BID_074_LifeguardFemale.BID_074_LifeguardFemale
+[Frozen Shroud] /Game/Athena/Items/Cosmetics/Backpacks/BID_073_DarkViking.BID_073_DarkViking
+[Enduring Cape] /Game/Athena/Items/Cosmetics/Backpacks/BID_072_VikingMale.BID_072_VikingMale
+[Rearguard] /Game/Athena/Items/Cosmetics/Backpacks/BID_071_VikingFemale.BID_071_VikingFemale
+[Ventura Cape] /Game/Athena/Items/Cosmetics/Backpacks/BID_070_DecoFemale.BID_070_DecoFemale
+[Venturion Cape] /Game/Athena/Items/Cosmetics/Backpacks/BID_069_DecoMale.BID_069_DecoMale
+[Cluefinder] /Game/Athena/Items/Cosmetics/Backpacks/BID_068_GumshoeDark.BID_068_GumshoeDark
+[Confidential Case] /Game/Athena/Items/Cosmetics/Backpacks/BID_067_GumshoeFemale.BID_067_GumshoeFemale
+[Deflector] /Game/Athena/Items/Cosmetics/Backpacks/BID_066_SpeedyRed.BID_066_SpeedyRed
+[Destabilizer] /Game/Athena/Items/Cosmetics/Backpacks/BID_065_CarbideBlack.BID_065_CarbideBlack
+[Blasting Cap] /Game/Athena/Items/Cosmetics/Backpacks/BID_064_FuzzyBearInd.BID_064_FuzzyBearInd
+[Crested Cape] /Game/Athena/Items/Cosmetics/Backpacks/BID_063_CuChulainn.BID_063_CuChulainn
+[Evidence Bag] /Game/Athena/Items/Cosmetics/Backpacks/BID_062_Gumshoe.BID_062_Gumshoe
+[Stabilizer] /Game/Athena/Items/Cosmetics/Backpacks/BID_061_CarbideOrange.BID_061_CarbideOrange
+[Ominous Orb] /Game/Athena/Items/Cosmetics/Backpacks/BID_060_DarkNinja.BID_060_DarkNinja
+[Last Gasp] /Game/Athena/Items/Cosmetics/Backpacks/BID_059_WWIIPilot.BID_059_WWIIPilot
+[Battle Shroud] /Game/Athena/Items/Cosmetics/Backpacks/BID_058_DarkEagle.BID_058_DarkEagle
+[Offworld Rig] /Game/Athena/Items/Cosmetics/Backpacks/BID_057_Visitor.BID_057_Visitor
+[Bogey Bag] /Game/Athena/Items/Cosmetics/Backpacks/BID_056_FighterPilot.BID_056_FighterPilot
+[Blue Shift] /Game/Athena/Items/Cosmetics/Backpacks/BID_055_PSBurnout.BID_055_PSBurnout
+[Burgle Bag] /Game/Athena/Items/Cosmetics/Backpacks/BID_054_JailbirdFemale.BID_054_JailbirdFemale
+[Strongbox] /Game/Athena/Items/Cosmetics/Backpacks/BID_053_JailbirdMale.BID_053_JailbirdMale
+[Contagion] /Game/Athena/Items/Cosmetics/Backpacks/BID_052_HazmatFemale.BID_052_HazmatFemale
+[Mertank] /Game/Athena/Items/Cosmetics/Backpacks/BID_051_Merman.BID_051_Merman
+[Pathogen] /Game/Athena/Items/Cosmetics/Backpacks/BID_050_Hazmat.BID_050_Hazmat
+[True North] /Game/Athena/Items/Cosmetics/Backpacks/BID_049_TacticalWoodland.BID_049_TacticalWoodland
+[Tag Bag] /Game/Athena/Items/Cosmetics/Backpacks/BID_048_Graffiti.BID_048_Graffiti
+[Goodie Bag] /Game/Athena/Items/Cosmetics/Backpacks/BID_047_Candy.BID_047_Candy
+[Standard Issue] /Game/Athena/Items/Cosmetics/Backpacks/BID_045_TacticalJungle.BID_045_TacticalJungle
+[Steelcast] /Game/Athena/Items/Cosmetics/Backpacks/BID_044_Robo.BID_044_Robo
+[Special Delivery] /Game/Athena/Items/Cosmetics/Backpacks/BID_043_Pizza.BID_043_Pizza
+[Fish Tank] /Game/Athena/Items/Cosmetics/Backpacks/BID_042_Fishhead.BID_042_Fishhead
+[Hatchling] /Game/Athena/Items/Cosmetics/Backpacks/BID_041_PajamaParty.BID_041_PajamaParty
+[Royale Flags] /Game/Athena/Items/Cosmetics/Backpacks/BID_040_Wukong.BID_040_Wukong
+[Dark Void] /Game/Athena/Items/Cosmetics/Backpacks/BID_039_SpaceBlackFemale.BID_039_SpaceBlackFemale
+[Eggshell] /Game/Athena/Items/Cosmetics/Backpacks/BID_038_BunnyFemale.BID_038_BunnyFemale
+[Hard Boiled] /Game/Athena/Items/Cosmetics/Backpacks/BID_037_BunnyMale.BID_037_BunnyMale
+[Iron Cage] /Game/Athena/Items/Cosmetics/Backpacks/BID_036_Raven.BID_036_Raven
+[Buckler] /Game/Athena/Items/Cosmetics/Backpacks/BID_035_Scathach.BID_035_Scathach
+[Six String] /Game/Athena/Items/Cosmetics/Backpacks/BID_034_RockerPunk.BID_034_RockerPunk
+[Skirmish] /Game/Athena/Items/Cosmetics/Backpacks/BID_033_FounderFemale.BID_033_FounderFemale
+[Pursuit] /Game/Athena/Items/Cosmetics/Backpacks/BID_032_FounderMale.BID_032_FounderMale
+[Scaly] /Game/Athena/Items/Cosmetics/Backpacks/BID_031_Dinosaur.BID_031_Dinosaur
+[Catalyst] /Game/Athena/Items/Cosmetics/Backpacks/BID_030_TacticalRogue.BID_030_TacticalRogue
+[Backup Plan] /Game/Athena/Items/Cosmetics/Backpacks/BID_029_RetroGrey.BID_029_RetroGrey
+[Dark Matter] /Game/Athena/Items/Cosmetics/Backpacks/BID_028_SpaceBlack.BID_028_SpaceBlack
+[Rust Bucket] /Game/Athena/Items/Cosmetics/Backpacks/BID_027_Scavenger.BID_027_Scavenger
+[Brite Bag] /Game/Athena/Items/Cosmetics/Backpacks/BID_026_Brite.BID_026_Brite
+[Precision] /Game/Athena/Items/Cosmetics/Backpacks/BID_025_Tactical.BID_025_Tactical
+[Astro] /Game/Athena/Items/Cosmetics/Backpacks/BID_024_Space.BID_024_Space
+[Cuddle Bow] /Game/Athena/Items/Cosmetics/Backpacks/BID_023_Pinkbear.BID_023_Pinkbear
+[Love Wings] /Game/Athena/Items/Cosmetics/Backpacks/BID_022_Cupid.BID_022_Cupid
+[Mogul Ski Bag (KOR)] /Game/Athena/Items/Cosmetics/Backpacks/BID_021_SkiGirl_KOR.BID_021_SkiGirl_KOR
+[Mogul Ski Bag (CHN)] /Game/Athena/Items/Cosmetics/Backpacks/BID_020_SkiGirl_CHN.BID_020_SkiGirl_CHN
+[Mogul Ski Bag (GER)] /Game/Athena/Items/Cosmetics/Backpacks/BID_019_SkiGirl_GER.BID_019_SkiGirl_GER
+[Mogul Ski Bag (FRA)] /Game/Athena/Items/Cosmetics/Backpacks/BID_018_SkiGirl_FRA.BID_018_SkiGirl_FRA
+[Mogul Ski Bag (GBR)] /Game/Athena/Items/Cosmetics/Backpacks/BID_017_SkiGirl_GBR.BID_017_SkiGirl_GBR
+[Mogul Ski Bag (CAN)] /Game/Athena/Items/Cosmetics/Backpacks/BID_016_SkiGirl_CAN.BID_016_SkiGirl_CAN
+[Mogul Ski Bag (USA)] /Game/Athena/Items/Cosmetics/Backpacks/BID_015_SkiGirl_USA.BID_015_SkiGirl_USA
+[Mogul Ski Bag] /Game/Athena/Items/Cosmetics/Backpacks/BID_014_SkiGirl.BID_014_SkiGirl
+[Alpine Accessories (KOR)] /Game/Athena/Items/Cosmetics/Backpacks/BID_013_SkiDude_KOR.BID_013_SkiDude_KOR
+[Alpine Accessories (CHN)] /Game/Athena/Items/Cosmetics/Backpacks/BID_012_SkiDude_CHN.BID_012_SkiDude_CHN
+[Alpine Accessories (GER)] /Game/Athena/Items/Cosmetics/Backpacks/BID_011_SkiDude_GER.BID_011_SkiDude_GER
+[Alpine Accessories (FRA)] /Game/Athena/Items/Cosmetics/Backpacks/BID_010_SkiDude_FRA.BID_010_SkiDude_FRA
+[Alpine Accessories (GBR)] /Game/Athena/Items/Cosmetics/Backpacks/BID_009_SkiDude_GBR.BID_009_SkiDude_GBR
+[Alpine Accessories (CAN)] /Game/Athena/Items/Cosmetics/Backpacks/BID_008_SkiDude_CAN.BID_008_SkiDude_CAN
+[Alpine Accessories (USA)] /Game/Athena/Items/Cosmetics/Backpacks/BID_007_SkiDude_USA.BID_007_SkiDude_USA
+[Alpine Accessories] /Game/Athena/Items/Cosmetics/Backpacks/BID_006_SkiDude.BID_006_SkiDude
+[Raptor Satchel] /Game/Athena/Items/Cosmetics/Backpacks/BID_005_Raptor.BID_005_Raptor
+[Black Shield] /Game/Athena/Items/Cosmetics/Backpacks/BID_004_BlackKnight.BID_004_BlackKnight
+[Red Shield] /Game/Athena/Items/Cosmetics/Backpacks/BID_003_RedKnight.BID_003_RedKnight
+[Royale Shield] /Game/Athena/Items/Cosmetics/Backpacks/BID_002_RoyaleKnight.BID_002_RoyaleKnight
+[Squire Shield] /Game/Athena/Items/Cosmetics/Backpacks/BID_001_BlueSquire.BID_001_BlueSquire

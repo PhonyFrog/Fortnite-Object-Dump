@@ -1,0 +1,595 @@
+Fortnite Version 10.400000
+
+[Emoticon] /Script/FortniteGame.Default__AthenaEmojiItemDefinition
+[X Mark] /Game/Athena/Items/Cosmetics/Sprays/SPID_002_XMark.SPID_002_XMark
+[ZZZ] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_ZZZ.Emoji_ZZZ
+[Wow] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Wow.Emoji_Wow
+[GG Potion] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_WitchsBrew.Emoji_WitchsBrew
+[Surrender] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_WhiteFlag.Emoji_WhiteFlag
+[Victory Royale] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_VictoryRoyale.Emoji_VictoryRoyale
+[Trap] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Trap.Emoji_Trap
+[TP] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_TP.Emoji_TP
+[Tomatohead] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_TomatoHead.Emoji_TomatoHead
+[Thumbs Up] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_ThumbsUp.Emoji_ThumbsUp
+[Thumbs Down] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_ThumbsDown.Emoji_ThumbsDown
+[Thief] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Thief.Emoji_Thief
+[Teknique] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Teknique.Emoji_Teknique
+[Flail] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_TechOpsBlue.Emoji_TechOpsBlue
+[Teamwork] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Teamwork.Emoji_Teamwork
+[Tattered] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Tattered.Emoji_Tattered
+[Tasty] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Tasty.Emoji_Tasty
+[Sweaty] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Sweaty.Emoji_Sweaty
+[IDK] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_SupDood.Emoji_SupDood
+[Sunshine] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Sun.Emoji_Sun
+[Perfect Blend] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_SummerDays.Emoji_SummerDays
+[Sucker] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Sucker.Emoji_Sucker
+[Storm] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Storm.Emoji_Storm
+[Stop] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Stop.Emoji_Stop
+[Stinky] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Stinky.Emoji_Stinky
+[Stealthy] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Stealthy.Emoji_Stealthy
+[Spicy] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Spicy.Emoji_Spicy
+[Sparkle Specialist] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_SparkleSpecialist.Emoji_SparkleSpecialist
+[Snowman] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Snowman.Emoji_Snowman
+[Snowflake] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Snowflake.Emoji_Snowflake
+[Skull Trooper] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Skulltrooper.Emoji_Skulltrooper
+[Skully] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_SkullBrite.Emoji_SkullBrite
+[Skeptical] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_SkepticalFishstix.Emoji_SkepticalFishstix
+[...] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_SilentMaven.Emoji_SilentMaven
+[Wukong] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_ScreamingWukong.Emoji_ScreamingWukong
+[Salty] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Salty.Emoji_Salty
+[Season Level 100] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S9Lvl100.Emoji_S9Lvl100
+[Season Level 100] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S8Lvl100.Emoji_S8Lvl100
+[Season Level 100] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S7Lvl100.Emoji_S7Lvl100
+[Season Level 100] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S6Lvl100.Emoji_S6Lvl100
+[Season Level 100] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_S10Lvl100.Emoji_S10Lvl100
+[Rust Lord] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_RustLord.Emoji_RustLord
+[Let's Rock] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_RockOn.Emoji_RockOn
+[Rocket Ride] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_RocketRide.Emoji_RocketRide
+[Let's Rock] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Rock.Emoji_Rock
+[RIP] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_RIP.Emoji_RIP
+[Rex Roar] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_RexHead.Emoji_RexHead
+[Rekt] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Rekt.Emoji_Rekt
+[Red Knight] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_RedKnight.Emoji_RedKnight
+[Rainbow] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Rainbow.Emoji_Rainbow
+[Rage] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Rage.Emoji_Rage
+[Rabid] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Rabid.Emoji_Rabid
+[Prickly] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Prickly.Emoji_Prickly
+[Pot of Gold] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_PotOfGold.Emoji_PotOfGold
+[Shield Potion] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Potion.Emoji_Potion
+[Potato Aim] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_PotatoAim.Emoji_PotatoAim
+[Positivity] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Positivity.Emoji_Positivity
+[Popcorn] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Popcorn.Emoji_Popcorn
+[Pool Party] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_PoolParty.Emoji_PoolParty
+[Plunger] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Plunger.Emoji_Plunger
+[Plotting] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Plotting.Emoji_Plotting
+[Placeholder] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Placeholder.Emoji_Placeholder
+[Pizza] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Pizza.Emoji_Pizza
+[Pickaxe] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_PickAxe.Emoji_PickAxe
+[Penguin] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Penguin.Emoji_Penguin
+[Peace] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_PeaceSign.Emoji_PeaceSign
+[Palm Tree] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_PalmTree.Emoji_PalmTree
+[On Fire] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_OnFire.Emoji_OnFire
+[Octo-Pirate] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_OctoPirate.Emoji_OctoPirate
+[#1] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Number1.Emoji_Number1
+[MVP] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_MVP.Emoji_MVP
+[Mittens] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Mittens.Emoji_Mittens
+[Mistletoe] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Mistletoe.Emoji_Mistletoe
+[MEEET] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Meet.Emoji_Meet
+[Majestic] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Majestic.Emoji_Majestic
+[Lucky] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Lucky.Emoji_Lucky
+[Love Ranger] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_LoveRanger.Emoji_LoveRanger
+[LOL] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_LOL.Emoji_LOL
+[Life Preserver] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_LifePreserver.Emoji_LifePreserver
+[Kaboom] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Kaboom.Emoji_Kaboom
+[I See You] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_ISeeYou.Emoji_ISeeYou
+[In Love] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_InLove.Emoji_InLove
+[Icy Heart] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_IceHeart.Emoji_IceHeart
+[Amazed] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_HuskWow.Emoji_HuskWow
+[Hot Dawg] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_HotDawg.Emoji_HotDawg
+[Hot Chocolate] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_HotChocolate.Emoji_HotChocolate
+[Hoarder] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Hoarder.Emoji_Hoarder
+[Heart Hands] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_HeartHands.Emoji_HeartHands
+[Heartbroken] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Heartbroken.Emoji_Heartbroken
+[Headshot] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Headshot.Emoji_Headshot
+[Good Game] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_GoodGame.Emoji_GoodGame
+[Go] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Go.Emoji_Go
+[Merry Marauder] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_GingerbreadMad.Emoji_GingerbreadMad
+[Ginger Gunner] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_GingerbreadHappy.Emoji_GingerbreadHappy
+[Ghost] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Ghost.Emoji_Ghost
+[GG Wreath] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_GGWreath.Emoji_GGWreath
+[GG Jellyfish] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_GGJellyfish.Emoji_GGJellyfish
+[GG] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_GG.Emoji_GG
+[Foam Finger] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_FoamFinger.Emoji_FoamFinger
+[Flaming Rage] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_FlamingRage.Emoji_FlamingRage
+[F] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_FKey.Emoji_FKey
+[Fist Bump] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_FistBump.Emoji_FistBump
+[Fiery] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Fiery.Emoji_Fiery
+[Explosion] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Explosion.Emoji_Explosion
+[Exclamation] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Exclamation.Emoji_Exclamation
+[Embarrassed] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Embarrassed.Emoji_Embarrassed
+[Dynamite] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Dynamite.Emoji_Dynamite
+[Durrr Burger] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_DurrrBurger.Emoji_DurrrBurger
+[Durrr!] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_DurrburgerHead.Emoji_DurrburgerHead
+[Driftin'] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_DriftHead.Emoji_DriftHead
+[DJ Yonder] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_DJYonder.Emoji_DJYonder
+[Dance Party] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Disco.Emoji_Disco
+[Deal With It] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_DealWithIt.Emoji_DealWithIt
+[Cuddle Up] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_CuddleTeamHead.Emoji_CuddleTeamHead
+[Cuddly] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Cuddle.Emoji_Cuddle
+[Cross Swords] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_CrossSwords.Emoji_CrossSwords
+[Crackshot] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Crackshot.Emoji_Crackshot
+[Crabby] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Crabby.Emoji_Crabby
+[Cool Pepper] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_CoolPepper.Emoji_CoolPepper
+[Emoticon] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Comm.Emoji_Comm
+[Clown] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Clown.Emoji_Clown
+[Clapping] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Clapping.Emoji_Clapping
+[Chicken] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Chicken.Emoji_Chicken
+[Celebrate] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Celebrate.Emoji_Celebrate
+[Camper] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Camper.Emoji_Camper
+[Lights, Camera, Action!] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Camera.Emoji_Camera
+[Bush] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Bush.Emoji_Bush
+[Bullseye] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Bullseye.Emoji_Bullseye
+[Boombox] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Boombox.Emoji_Boombox
+[Boogie Bomb] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_BoogieBomb.Emoji_BoogieBomb
+[Black Cat] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_BlackCat.Emoji_BlackCat
+[Birthday Cupcake] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Birthday2019.Emoji_Birthday2019
+[Fortnite Birthday!] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Birthday2018.Emoji_Birthday2018
+[Battle Bus] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_BattleBus.Emoji_BattleBus
+[Bang!] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Bang.Emoji_Bang
+[Bananas] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Banana.Emoji_Banana
+[Baited] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Baited.Emoji_Baited
+[Bad Apple] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_BadApple.Emoji_BadApple
+[Baby Seal] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_BabySeal.Emoji_BabySeal
+[Ancient Mask] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_AztecMask.Emoji_AztecMask
+[Awww] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Awww.Emoji_Awww
+[Thor?s Stormbreaker] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_AshtonTurbo.Emoji_AshtonTurbo
+[Captain America?s Shield] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_AshtonChicago.Emoji_AshtonChicago
+[Flex] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_ArmFlex.Emoji_ArmFlex
+[A+] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_APlus.Emoji_APlus
+[Angry Volcano] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_AngryVolcano.Emoji_AngryVolcano
+[Angel] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Angel.Emoji_Angel
+[Alarm] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Alarm.Emoji_Alarm
+[Ace] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_Ace.Emoji_Ace
+[Four-leaf Clover] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_4LeafClover.Emoji_4LeafClover
+[200 Meters] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_200m.Emoji_200m
+[200 IQ Play] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_200IQPlay.Emoji_200IQPlay
+[1 HP] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_1HP.Emoji_1HP
+[100] /Game/Athena/Items/Cosmetics/Dances/Emoji/Emoji_100APlus.Emoji_100APlus
+[Fancy Flip] /Game/Athena/Items/Cosmetics/Toys/TOY_020_Bottle_Fancy.TOY_020_Bottle_Fancy
+[Water Balloon] /Game/Athena/Items/Cosmetics/Toys/TOY_019_WaterBalloon.TOY_019_WaterBalloon
+[Fancy Flying Disc] /Game/Athena/Items/Cosmetics/Toys/TOY_018_FancyFlyingDisc.TOY_018_FancyFlyingDisc
+[Flying Disc] /Game/Athena/Items/Cosmetics/Toys/TOY_017_FlyingDisc.TOY_017_FlyingDisc
+[Bottle Flip] /Game/Athena/Items/Cosmetics/Toys/TOY_015_Bottle.TOY_015_Bottle
+[Bouncy Ball] /Game/Athena/Items/Cosmetics/Toys/TOY_014_BouncyBall.TOY_014_BouncyBall
+[Pigskin] /Game/Athena/Items/Cosmetics/Toys/TOY_012_AmericanFootball.TOY_012_AmericanFootball
+[Snowball] /Game/Athena/Items/Cosmetics/Toys/TOY_011_Snowball.TOY_011_Snowball
+[Ice Puck] /Game/Athena/Items/Cosmetics/Toys/TOY_010_IcePuck.TOY_010_IcePuck
+[Fancy Burger] /Game/Athena/Items/Cosmetics/Toys/TOY_009_BurgerElite.TOY_009_BurgerElite
+[Fancy Tomato] /Game/Athena/Items/Cosmetics/Toys/TOY_008_TomatoElite.TOY_008_TomatoElite
+[Tomato] /Game/Athena/Items/Cosmetics/Toys/TOY_007_Tomato.TOY_007_Tomato
+[Fancy Beach Ball] /Game/Athena/Items/Cosmetics/Toys/TOY_006_BeachBallElite.TOY_006_BeachBallElite
+[Fancy Golf Ball] /Game/Athena/Items/Cosmetics/Toys/TOY_005_GolfballElite.TOY_005_GolfballElite
+[Fancy Basketball] /Game/Athena/Items/Cosmetics/Toys/TOY_004_BasketballElite.TOY_004_BasketballElite
+[Beach Ball] /Game/Athena/Items/Cosmetics/Toys/TOY_003_BeachBall.TOY_003_BeachBall
+[Golf Ball] /Game/Athena/Items/Cosmetics/Toys/TOY_002_Golfball.TOY_002_Golfball
+[Basketball] /Game/Athena/Items/Cosmetics/Toys/TOY_001_Basketball.TOY_001_Basketball
+[Batarang] /Game/Athena/Items/Cosmetics/Sprays/SPID_160_BlackMonday02_PM0U6.SPID_160_BlackMonday02_PM0U6
+[The Bat] /Game/Athena/Items/Cosmetics/Sprays/SPID_159_BlackMonday01_TY6N5.SPID_159_BlackMonday01_TY6N5
+[Zone Wars] /Game/Athena/Items/Cosmetics/Sprays/SPID_158_ZoneWars.SPID_158_ZoneWars
+[Psycho] /Game/Athena/Items/Cosmetics/Sprays/SPID_157_BarbequeLarryMask.SPID_157_BarbequeLarryMask
+[Crunk Bunny] /Game/Athena/Items/Cosmetics/Sprays/SPID_155_BarbequeLarryBunnyHead.SPID_155_BarbequeLarryBunnyHead
+[TBD] /Game/Athena/Items/Cosmetics/Sprays/SPID_153_KnightRemix.SPID_153_KnightRemix
+[Catalyst] /Game/Athena/Items/Cosmetics/Sprays/SPID_152_DriftRemix.SPID_152_DriftRemix
+[Pixel Blast] /Game/Athena/Items/Cosmetics/Sprays/SPID_151_DarkVoyager.SPID_151_DarkVoyager
+[Frostwing] /Game/Athena/Items/Cosmetics/Sprays/SPID_150_IceDragon.SPID_150_IceDragon
+[Fire v Ice] /Game/Athena/Items/Cosmetics/Sprays/SPID_149_FireIce.SPID_149_FireIce
+[Play To Win] /Game/Athena/Items/Cosmetics/Sprays/SPID_148_Umbrella.SPID_148_Umbrella
+[Stay Smooth] /Game/Athena/Items/Cosmetics/Sprays/SPID_147_Smoothie.SPID_147_Smoothie
+[Take Cover] /Game/Athena/Items/Cosmetics/Sprays/SPID_146_Rocket.SPID_146_Rocket
+[Comet] /Game/Athena/Items/Cosmetics/Sprays/SPID_145_Comet.SPID_145_Comet
+[Visitor GG] /Game/Athena/Items/Cosmetics/Sprays/SPID_144_VisitorGG.SPID_144_VisitorGG
+[Drift] /Game/Athena/Items/Cosmetics/Sprays/SPID_143_Drift.SPID_143_Drift
+[Kevin Runes] /Game/Athena/Items/Cosmetics/Sprays/SPID_142_CubeRune.SPID_142_CubeRune
+[Season Level 100] /Game/Athena/Items/Cosmetics/Sprays/SPID_141_S10Level100.SPID_141_S10Level100
+[Moisty Mire] /Game/Athena/Items/Cosmetics/Sprays/SPID_140_MoistyMire.SPID_140_MoistyMire
+[Tilted Map] /Game/Athena/Items/Cosmetics/Sprays/SPID_139_TiltedMap.SPID_139_TiltedMap
+[Sparkle Specialist] /Game/Athena/Items/Cosmetics/Sprays/SPID_138_SparkleSpecialist.SPID_138_SparkleSpecialist
+[Rust Lord] /Game/Athena/Items/Cosmetics/Sprays/SPID_137_RustLord.SPID_137_RustLord
+[Rocket] /Game/Athena/Items/Cosmetics/Sprays/SPID_136_RocketLaunch.SPID_136_RocketLaunch
+[Risky Reels] /Game/Athena/Items/Cosmetics/Sprays/SPID_135_RiskyReels.SPID_135_RiskyReels
+[Dusty Devastation] /Game/Athena/Items/Cosmetics/Sprays/SPID_134_DustyDepot.SPID_134_DustyDepot
+[Butterfly] /Game/Athena/Items/Cosmetics/Sprays/SPID_133_Butterfly.SPID_133_Butterfly
+[Black Knight] /Game/Athena/Items/Cosmetics/Sprays/SPID_132_BlackKnight.SPID_132_BlackKnight
+[Teknique] /Game/Athena/Items/Cosmetics/Sprays/SPID_131_Teknique.SPID_131_Teknique
+[Game Jam 2019] /Game/Athena/Items/Cosmetics/Sprays/SPID_130_GameJam2019.SPID_130_GameJam2019
+[This Many] /Game/Athena/Items/Cosmetics/Sprays/SPID_129_Birthday2019.SPID_129_Birthday2019
+[Surfstick] /Game/Athena/Items/Cosmetics/Sprays/SPID_128_SummerDays02.SPID_128_SummerDays02
+[Sunny] /Game/Athena/Items/Cosmetics/Sprays/SPID_127_SummerDays01.SPID_127_SummerDays01
+[World Cup 2019] /Game/Athena/Items/Cosmetics/Sprays/SPID_126_WorldCup.SPID_126_WorldCup
+[Gameface] /Game/Athena/Items/Cosmetics/Sprays/SPID_125_VigilanteFace.SPID_125_VigilanteFace
+[G.O.A.T.] /Game/Athena/Items/Cosmetics/Sprays/SPID_124_Goat.SPID_124_Goat
+[Wings] /Game/Athena/Items/Cosmetics/Sprays/SPID_123_PeelyArms.SPID_123_PeelyArms
+[Slam Dunk] /Game/Athena/Items/Cosmetics/Sprays/SPID_122_VigilanteBall.SPID_122_VigilanteBall
+[Sunbird] /Game/Athena/Items/Cosmetics/Sprays/SPID_121_Sunbird.SPID_121_Sunbird
+[Season Level 100] /Game/Athena/Items/Cosmetics/Sprays/SPID_120_S9Lvl100.SPID_120_S9Lvl100
+[That way] /Game/Athena/Items/Cosmetics/Sprays/SPID_119_ChevronRight.SPID_119_ChevronRight
+[This way] /Game/Athena/Items/Cosmetics/Sprays/SPID_118_ChevronLeft.SPID_118_ChevronLeft
+[Nope] /Game/Athena/Items/Cosmetics/Sprays/SPID_117_NoSymbol.SPID_117_NoSymbol
+[Bot] /Game/Athena/Items/Cosmetics/Sprays/SPID_116_Robot.SPID_116_Robot
+[Pixel Jonesy] /Game/Athena/Items/Cosmetics/Sprays/SPID_115_PixelJonesy.SPID_115_PixelJonesy
+[Bush Peek] /Game/Athena/Items/Cosmetics/Sprays/SPID_114_Bush.SPID_114_Bush
+[Nana Nana] /Game/Athena/Items/Cosmetics/Sprays/SPID_113_NanaNana.SPID_113_NanaNana
+[Rock Love] /Game/Athena/Items/Cosmetics/Sprays/SPID_112_RockPeople.SPID_112_RockPeople
+[Ark] /Game/Athena/Items/Cosmetics/Sprays/SPID_111_Ark.SPID_111_Ark
+[Sentinel] /Game/Athena/Items/Cosmetics/Sprays/SPID_110_Rooster.SPID_110_Rooster
+[Rox] /Game/Athena/Items/Cosmetics/Sprays/SPID_109_StrawberryPilot.SPID_109_StrawberryPilot
+[Fate] /Game/Athena/Items/Cosmetics/Sprays/SPID_108_Fate.SPID_108_Fate
+[Infinity Gauntlet] /Game/Athena/Items/Cosmetics/Sprays/SPID_107_Ashton_Jim.SPID_107_Ashton_Jim
+[Avengers Logo] /Game/Athena/Items/Cosmetics/Sprays/SPID_106_Ashton_Boardwalk.SPID_106_Ashton_Boardwalk
+[Pirate Parrot] /Game/Athena/Items/Cosmetics/Sprays/SPID_105_Parrot.SPID_105_Parrot
+[Season Level 100] /Game/Athena/Items/Cosmetics/Sprays/SPID_104_S8Lvl100.SPID_104_S8Lvl100
+[Mermaid] /Game/Athena/Items/Cosmetics/Sprays/SPID_103_Mermaid.SPID_103_Mermaid
+[GG Snakes] /Game/Athena/Items/Cosmetics/Sprays/SPID_102_GGAztec.SPID_102_GGAztec
+[Brite Bomber] /Game/Athena/Items/Cosmetics/Sprays/SPID_101_BriteBomber.SPID_101_BriteBomber
+[Salty] /Game/Athena/Items/Cosmetics/Sprays/SPID_100_Salty.SPID_100_Salty
+[Skeleton Key] /Game/Athena/Items/Cosmetics/Sprays/SPID_099_Key.SPID_099_Key
+[Luxe] /Game/Athena/Items/Cosmetics/Sprays/SPID_098_Shiny.SPID_098_Shiny
+[Ember] /Game/Athena/Items/Cosmetics/Sprays/SPID_097_FireElf.SPID_097_FireElf
+[Fallen Love Ranger] /Game/Athena/Items/Cosmetics/Sprays/SPID_096_FallenLoveRanger.SPID_096_FallenLoveRanger
+[Love Ranger] /Game/Athena/Items/Cosmetics/Sprays/SPID_095_LoveRanger.SPID_095_LoveRanger
+[Woot Bonesy] /Game/Athena/Items/Cosmetics/Sprays/SPID_094_WootDog.SPID_094_WootDog
+[The End] /Game/Athena/Items/Cosmetics/Sprays/SPID_093_TheEnd.SPID_093_TheEnd
+[Peeled] /Game/Athena/Items/Cosmetics/Sprays/SPID_092_BananaPeel.SPID_092_BananaPeel
+[The Brood] /Game/Athena/Items/Cosmetics/Sprays/SPID_091_DragonNinja.SPID_091_DragonNinja
+[Dance Mat] /Game/Athena/Items/Cosmetics/Sprays/SPID_090_DanceFloorBox.SPID_090_DanceFloorBox
+[Share The Love] /Game/Athena/Items/Cosmetics/Sprays/SPID_089_ShareTheLove_E.SPID_089_ShareTheLove_E
+[Share The Love] /Game/Athena/Items/Cosmetics/Sprays/SPID_088_ShareTheLove_D.SPID_088_ShareTheLove_D
+[Share The Love] /Game/Athena/Items/Cosmetics/Sprays/SPID_087_ShareTheLove_C.SPID_087_ShareTheLove_C
+[Share The Love] /Game/Athena/Items/Cosmetics/Sprays/SPID_086_ShareTheLove_B.SPID_086_ShareTheLove_B
+[Share The Love] /Game/Athena/Items/Cosmetics/Sprays/SPID_085_ShareTheLove_A.SPID_085_ShareTheLove_A
+[Mello Made It Right] /Game/Athena/Items/Cosmetics/Sprays/SPID_084_Festivus.SPID_084_Festivus
+[Holiday Stormwing] /Game/Athena/Items/Cosmetics/Sprays/SPID_083_Winter.SPID_083_Winter
+[GG Ornament] /Game/Athena/Items/Cosmetics/Sprays/SPID_082_Ornament.SPID_082_Ornament
+[Bananas] /Game/Athena/Items/Cosmetics/Sprays/SPID_081_Bananas.SPID_081_Bananas
+[Season Level 100] /Game/Athena/Items/Cosmetics/Sprays/SPID_080_S7Lvl100.SPID_080_S7Lvl100
+[Lynx] /Game/Athena/Items/Cosmetics/Sprays/SPID_079_CatGirl.SPID_079_CatGirl
+[Pixel Ramirez] /Game/Athena/Items/Cosmetics/Sprays/SPID_078_PixelRamirez.SPID_078_PixelRamirez
+[Baited] /Game/Athena/Items/Cosmetics/Sprays/SPID_077_Baited.SPID_077_Baited
+[Trog Drawings] /Game/Athena/Items/Cosmetics/Sprays/SPID_076_Yeti.SPID_076_Yeti
+[Melting Snowman] /Game/Athena/Items/Cosmetics/Sprays/SPID_075_MeltingSnowman.SPID_075_MeltingSnowman
+[Cuddle Team Hula] /Game/Athena/Items/Cosmetics/Sprays/SPID_074_CuddleHula.SPID_074_CuddleHula
+[Porthole] /Game/Athena/Items/Cosmetics/Sprays/SPID_073_Porthole.SPID_073_Porthole
+[Moth] /Game/Athena/Items/Cosmetics/Sprays/SPID_072_Mothhead.SPID_072_Mothhead
+[Neon Cat] /Game/Athena/Items/Cosmetics/Sprays/SPID_071_NeonCat.SPID_071_NeonCat
+[Sgt. Winter] /Game/Athena/Items/Cosmetics/Sprays/SPID_070_Hohoho.SPID_070_Hohoho
+[Bag Of Coal] /Game/Athena/Items/Cosmetics/Sprays/SPID_069_BagOfCoal.SPID_069_BagOfCoal
+[Grumpy Tree] /Game/Athena/Items/Cosmetics/Sprays/SPID_068_EvilTree.SPID_068_EvilTree
+[GG Snowman] /Game/Athena/Items/Cosmetics/Sprays/SPID_067_GGSnowman.SPID_067_GGSnowman
+[Llamalaxy] /Game/Athena/Items/Cosmetics/Sprays/SPID_066_Llamalaxy.SPID_066_Llamalaxy
+[Disco Baller] /Game/Athena/Items/Cosmetics/Sprays/SPID_065_DiscoBaller.SPID_065_DiscoBaller
+[Season Level 100] /Game/Athena/Items/Cosmetics/Sprays/SPID_064_S6Lvl100.SPID_064_S6Lvl100
+[Deadfire] /Game/Athena/Items/Cosmetics/Sprays/SPID_063_Cowboy.SPID_063_Cowboy
+[Dire] /Game/Athena/Items/Cosmetics/Sprays/SPID_062_Werewolf.SPID_062_Werewolf
+[Spiderweb] /Game/Athena/Items/Cosmetics/Sprays/SPID_061_Spiderweb.SPID_061_Spiderweb
+[Llama de Muertos] /Game/Athena/Items/Cosmetics/Sprays/SPID_060_DayOfDead.SPID_060_DayOfDead
+[DJ Yonder] /Game/Athena/Items/Cosmetics/Sprays/SPID_059_DJ.SPID_059_DJ
+[Calamity] /Game/Athena/Items/Cosmetics/Sprays/SPID_058_Cowgirl.SPID_058_Cowgirl
+[Sad Bunny] /Game/Athena/Items/Cosmetics/Sprays/SPID_057_CreepyBunny.SPID_057_CreepyBunny
+[Manhole Cover] /Game/Athena/Items/Cosmetics/Sprays/SPID_056_ManholeCover.SPID_056_ManholeCover
+[Wallcrawler] /Game/Athena/Items/Cosmetics/Sprays/SPID_055_WallCrawler.SPID_055_WallCrawler
+[GG Potion] /Game/Athena/Items/Cosmetics/Sprays/SPID_053_GGPotion.SPID_053_GGPotion
+[Game Over] /Game/Athena/Items/Cosmetics/Sprays/SPID_051_GameOver.SPID_051_GameOver
+[Meow Moon] /Game/Athena/Items/Cosmetics/Sprays/SPID_050_FullMoon.SPID_050_FullMoon
+[Cactus Maze] /Game/Athena/Items/Cosmetics/Sprays/SPID_049_CactusMaze.SPID_049_CactusMaze
+[Gremlins] /Game/Athena/Items/Cosmetics/Sprays/SPID_047_Gremlins.SPID_047_Gremlins
+[Pixel Raven] /Game/Athena/Items/Cosmetics/Sprays/SPID_046_PixelRaven.SPID_046_PixelRaven
+[Oni] /Game/Athena/Items/Cosmetics/Sprays/SPID_045_Oni.SPID_045_Oni
+[Suited Up] /Game/Athena/Items/Cosmetics/Sprays/SPID_044_Bling.SPID_044_Bling
+[Kab-llama!] /Game/Athena/Items/Cosmetics/Sprays/SPID_043_Flairspray.SPID_043_Flairspray
+[Plugged In] /Game/Athena/Items/Cosmetics/Sprays/SPID_042_LlamaControllers.SPID_042_LlamaControllers
+[Distinguished] /Game/Athena/Items/Cosmetics/Sprays/SPID_041_GC2018.SPID_041_GC2018
+[Happy Birthday!] /Game/Athena/Items/Cosmetics/Sprays/SPID_040_Birthday2018.SPID_040_Birthday2018
+[Yummy] /Game/Athena/Items/Cosmetics/Sprays/SPID_039_Yummy.SPID_039_Yummy
+[Sushi] /Game/Athena/Items/Cosmetics/Sprays/SPID_038_Sushi.SPID_038_Sushi
+[Drift] /Game/Athena/Items/Cosmetics/Sprays/SPID_037_Drift.SPID_037_Drift
+[Strawberry Paws] /Game/Athena/Items/Cosmetics/Sprays/SPID_036_StrawberryPaws.SPID_036_StrawberryPaws
+[Norse Llama] /Game/Athena/Items/Cosmetics/Sprays/SPID_035_NordicLlama.SPID_035_NordicLlama
+[Good Vibes] /Game/Athena/Items/Cosmetics/Sprays/SPID_034_GoodVibes.SPID_034_GoodVibes
+[Fake Door] /Game/Athena/Items/Cosmetics/Sprays/SPID_033_FakeDoor.SPID_033_FakeDoor
+[Potato Aim] /Game/Athena/Items/Cosmetics/Sprays/SPID_032_PotatoAim.SPID_032_PotatoAim
+[Pixels Royale] /Game/Athena/Items/Cosmetics/Sprays/SPID_031_Pixels.SPID_031_Pixels
+[Lucha GG] /Game/Athena/Items/Cosmetics/Sprays/SPID_030_Luchador.SPID_030_Luchador
+[Laser Chomp] /Game/Athena/Items/Cosmetics/Sprays/SPID_029_LaserShark.SPID_029_LaserShark
+[Durrr] /Game/Athena/Items/Cosmetics/Sprays/SPID_028_Durrr.SPID_028_Durrr
+[Dragonflies] /Game/Athena/Items/Cosmetics/Sprays/SPID_027_Dragonflies.SPID_027_Dragonflies
+[Skull & Beard] /Game/Athena/Items/Cosmetics/Sprays/SPID_026_DarkViking.SPID_026_DarkViking
+[Crazy Castle] /Game/Athena/Items/Cosmetics/Sprays/SPID_025_CrazyCastle.SPID_025_CrazyCastle
+[Boogie] /Game/Athena/Items/Cosmetics/Sprays/SPID_024_Boogie.SPID_024_Boogie
+[EEE] /Game/Athena/Items/Cosmetics/Sprays/SPID_023_E3.SPID_023_E3
+[Solo Showdown] /Game/Athena/Items/Cosmetics/Sprays/SPID_022_SoloShowdown.SPID_022_SoloShowdown
+[Do It!] /Game/Athena/Items/Cosmetics/Sprays/SPID_021_DoIt.SPID_021_DoIt
+[Three Llamas] /Game/Athena/Items/Cosmetics/Sprays/SPID_020_ThreeLlamas.SPID_020_ThreeLlamas
+[Circle] /Game/Athena/Items/Cosmetics/Sprays/SPID_019_Circle.SPID_019_Circle
+[Shadow Ops] /Game/Athena/Items/Cosmetics/Sprays/SPID_018_ShadowOps.SPID_018_ShadowOps
+[Teknique] /Game/Athena/Items/Cosmetics/Sprays/SPID_017_Splattershot.SPID_017_Splattershot
+[Mask] /Game/Athena/Items/Cosmetics/Sprays/SPID_016_Ponytail.SPID_016_Ponytail
+[Kiss] /Game/Athena/Items/Cosmetics/Sprays/SPID_015_Lips.SPID_015_Lips
+[Raven] /Game/Athena/Items/Cosmetics/Sprays/SPID_014_Raven.SPID_014_Raven
+[Trap Warning] /Game/Athena/Items/Cosmetics/Sprays/SPID_013_TrapWarning.SPID_013_TrapWarning
+[Royal Stroll] /Game/Athena/Items/Cosmetics/Sprays/SPID_012_RoyalStroll.SPID_012_RoyalStroll
+[Looted] /Game/Athena/Items/Cosmetics/Sprays/SPID_011_Looted.SPID_011_Looted
+[Tunnel] /Game/Athena/Items/Cosmetics/Sprays/SPID_010_Tunnel.SPID_010_Tunnel
+[Window] /Game/Athena/Items/Cosmetics/Sprays/SPID_009_Window.SPID_009_Window
+[Hearts] /Game/Athena/Items/Cosmetics/Sprays/SPID_008_Hearts.SPID_008_Hearts
+[GG Smiley] /Game/Athena/Items/Cosmetics/Sprays/SPID_007_SmileGG.SPID_007_SmileGG
+[Rainbow] /Game/Athena/Items/Cosmetics/Sprays/SPID_006_Rainbow.SPID_006_Rainbow
+[Abstract] /Game/Athena/Items/Cosmetics/Sprays/SPID_005_Abstract.SPID_005_Abstract
+[Chalk Outline] /Game/Athena/Items/Cosmetics/Sprays/SPID_004_ChalkOutline.SPID_004_ChalkOutline
+[Arrow] /Game/Athena/Items/Cosmetics/Sprays/SPID_003_Arrow.SPID_003_Arrow
+[Personal Banner] /Game/Athena/Items/Cosmetics/Sprays/SPID_001_BasicBanner.SPID_001_BasicBanner
+[Test Spray] /Game/Athena/Items/Cosmetics/Sprays/SPID_000_TestSpray.SPID_000_TestSpray
+[Reanimated] /Game/Athena/Items/Cosmetics/Dances/EID_Zombie.EID_Zombie
+[Rambunctious] /Game/Athena/Items/Cosmetics/Dances/EID_Zippy.EID_Zippy
+[You're Awesome] /Game/Athena/Items/Cosmetics/Dances/EID_YoureAwesome.EID_YoureAwesome
+[Snoozefest] /Game/Athena/Items/Cosmetics/Dances/EID_YouBoreMe.EID_YouBoreMe
+[Dip] /Game/Athena/Items/Cosmetics/Dances/EID_Yeet.EID_Yeet
+[Yay! ] /Game/Athena/Items/Cosmetics/Dances/EID_YayExcited.EID_YayExcited
+[Shimmer] /Game/Athena/Items/Cosmetics/Dances/EID_WristFlick.EID_WristFlick
+[The Worm] /Game/Athena/Items/Cosmetics/Dances/EID_Worm.EID_Worm
+[Howl] /Game/Athena/Items/Cosmetics/Dances/EID_WolfHowl.EID_WolfHowl
+[Llamacadabra] /Game/Athena/Items/Cosmetics/Dances/EID_Wizard.EID_Wizard
+[Hot Marat] /Game/Athena/Items/Cosmetics/Dances/EID_WIR.EID_WIR
+[Windmill Floss] /Game/Athena/Items/Cosmetics/Dances/EID_WindmillFloss.EID_WindmillFloss
+[Wiggle] /Game/Athena/Items/Cosmetics/Dances/EID_Wiggle.EID_Wiggle
+[Whirlwind] /Game/Athena/Items/Cosmetics/Dances/EID_Whirlwind.EID_Whirlwind
+[Where Is Matt?] /Game/Athena/Items/Cosmetics/Dances/EID_WhereIsMatt.EID_WhereIsMatt
+[Flux] /Game/Athena/Items/Cosmetics/Dances/EID_WaveDance.EID_WaveDance
+[Wave] /Game/Athena/Items/Cosmetics/Dances/EID_Wave.EID_Wave
+[Dance Therapy] /Game/Athena/Items/Cosmetics/Dances/EID_Warehouse.EID_Warehouse
+[Breezy] /Game/Athena/Items/Cosmetics/Dances/EID_WackyWavy.EID_WackyWavy
+[Battle Call] /Game/Athena/Items/Cosmetics/Dances/EID_VikingHorn.EID_VikingHorn
+[Twist] /Game/Athena/Items/Cosmetics/Dances/EID_Twist.EID_Twist
+[True Love] /Game/Athena/Items/Cosmetics/Dances/EID_TrueLove.EID_TrueLove
+[Kiss The Cup] /Game/Athena/Items/Cosmetics/Dances/EID_TrophyCelebration.EID_TrophyCelebration
+[Stride] /Game/Athena/Items/Cosmetics/Dances/EID_TreadmillDance.EID_TreadmillDance
+[T-Pose] /Game/Athena/Items/Cosmetics/Dances/EID_TPose.EID_TPose
+[Spike It] /Game/Athena/Items/Cosmetics/Dances/EID_Touchdown.EID_Touchdown
+[Tsssss] /Game/Athena/Items/Cosmetics/Dances/EID_TorchSnuffer.EID_TorchSnuffer
+[Spring-Loaded] /Game/Athena/Items/Cosmetics/Dances/EID_TimetravelBackflip.EID_TimetravelBackflip
+[Time Out] /Game/Athena/Items/Cosmetics/Dances/EID_TimeOut.EID_TimeOut
+[Tidy] /Game/Athena/Items/Cosmetics/Dances/EID_Tidy.EID_Tidy
+[Thumbs Up] /Game/Athena/Items/Cosmetics/Dances/EID_ThumbsUp.EID_ThumbsUp
+[Thumbs Down] /Game/Athena/Items/Cosmetics/Dances/EID_ThumbsDown.EID_ThumbsDown
+[Slap Happy] /Game/Athena/Items/Cosmetics/Dances/EID_ThighSlapper.EID_ThighSlapper
+[Busy] /Game/Athena/Items/Cosmetics/Dances/EID_Texting.EID_Texting
+[Team Mech] /Game/Athena/Items/Cosmetics/Dances/EID_TeamRobot.EID_TeamRobot
+[Team Monster] /Game/Athena/Items/Cosmetics/Dances/EID_TeamMonster.EID_TeamMonster
+[Hootenanny] /Game/Athena/Items/Cosmetics/Dances/EID_TapShuffle.EID_TapShuffle
+[Savor The W] /Game/Athena/Items/Cosmetics/Dances/EID_TakeTheW.EID_TakeTheW
+[Take The L] /Game/Athena/Items/Cosmetics/Dances/EID_TakeTheL.EID_TakeTheL
+[Take The Elf] /Game/Athena/Items/Cosmetics/Dances/EID_TakeTheElf.EID_TakeTheElf
+[Tai Chi] /Game/Athena/Items/Cosmetics/Dances/EID_TaiChi.EID_TaiChi
+[Taco Time] /Game/Athena/Items/Cosmetics/Dances/EID_TacoTimeDance.EID_TacoTimeDance
+[Swipe It] /Game/Athena/Items/Cosmetics/Dances/EID_SwipeIt.EID_SwipeIt
+[Jitterbug] /Game/Athena/Items/Cosmetics/Dances/EID_SwingDance.EID_SwingDance
+[Deep End] /Game/Athena/Items/Cosmetics/Dances/EID_SwimDance.EID_SwimDance
+[Turbocharged] /Game/Athena/Items/Cosmetics/Dances/EID_SuckerPunch.EID_SuckerPunch
+[Peace Out] /Game/Athena/Items/Cosmetics/Dances/EID_StrawberryPilotKpop.EID_StrawberryPilotKpop
+[Statuesque] /Game/Athena/Items/Cosmetics/Dances/EID_StatuePose.EID_StatuePose
+[Gentleman's Dab] /Game/Athena/Items/Cosmetics/Dances/EID_StageBow.EID_StageBow
+[Keep It Mello] /Game/Athena/Items/Cosmetics/Dances/EID_SquishyMedley.EID_SquishyMedley
+[Marsh Walk] /Game/Athena/Items/Cosmetics/Dances/EID_SquishyDance.EID_SquishyDance
+[Spyglass] /Game/Athena/Items/Cosmetics/Dances/EID_Spyglass.EID_Spyglass
+[Sprinkler] /Game/Athena/Items/Cosmetics/Dances/EID_Sprinkler.EID_Sprinkler
+[Full Tilt] /Game/Athena/Items/Cosmetics/Dances/EID_SpeedRun.EID_SpeedRun
+[Sparkler] /Game/Athena/Items/Cosmetics/Dances/EID_Sparkler.EID_Sparkler
+[Something Stinks] /Game/Athena/Items/Cosmetics/Dances/EID_SomethingStinks.EID_SomethingStinks
+[Kick Ups] /Game/Athena/Items/Cosmetics/Dances/EID_SoccerJuggling.EID_SoccerJuggling
+[Very Sneaky] /Game/Athena/Items/Cosmetics/Dances/EID_SneakingTraversal.EID_SneakingTraversal
+[Snap] /Game/Athena/Items/Cosmetics/Dances/EID_Snap.EID_Snap
+[Poof] /Game/Athena/Items/Cosmetics/Dances/EID_SmokeBombFail.EID_SmokeBombFail
+[Slow Clap] /Game/Athena/Items/Cosmetics/Dances/EID_SlowClap.EID_SlowClap
+[Sign Spinner] /Game/Athena/Items/Cosmetics/Dances/EID_SignSpinner.EID_SignSpinner
+[Showstopper] /Game/Athena/Items/Cosmetics/Dances/EID_Showstopper.EID_Showstopper
+[Fierce] /Game/Athena/Items/Cosmetics/Dances/EID_Shiny.EID_Shiny
+[Dragon Stance] /Game/Athena/Items/Cosmetics/Dances/EID_Shinobi.EID_Shinobi
+[Shaolin Sit-up] /Game/Athena/Items/Cosmetics/Dances/EID_Shaolin.EID_Shaolin
+[Hang Loose] /Game/Athena/Items/Cosmetics/Dances/EID_Shaka.EID_Shaka
+[Shadow Boxer] /Game/Athena/Items/Cosmetics/Dances/EID_Shadowboxing.EID_ShadowBoxing
+[Flippin' Sexy] /Game/Athena/Items/Cosmetics/Dances/EID_SexyFlip.EID_SexyFlip
+[Work It] /Game/Athena/Items/Cosmetics/Dances/EID_SecurityGuard.EID_SecurityGuard
+[Team Tomato] /Game/Athena/Items/Cosmetics/Dances/EID_ScorecardTomato.EID_ScoreCardTomato
+[Team Burger] /Game/Athena/Items/Cosmetics/Dances/EID_ScoreCardBurger.EID_ScoreCardBurger
+[Scorecard] /Game/Athena/Items/Cosmetics/Dances/EID_ScoreCard.EID_ScoreCard
+[Phone It In] /Game/Athena/Items/Cosmetics/Dances/EID_Saxophone.EID_Saxophone
+[Salute] /Game/Athena/Items/Cosmetics/Dances/EID_Salute.EID_Salute
+[Sad Trombone] /Game/Athena/Items/Cosmetics/Dances/EID_SadTrombone.EID_SadTrombone
+[Pick It Up] /Game/Athena/Items/Cosmetics/Dances/EID_RunningManv3.EID_RunningManv3
+[Running Man] /Game/Athena/Items/Cosmetics/Dances/EID_RunningMan.EID_RunningMan
+[Jump Jets] /Game/Athena/Items/Cosmetics/Dances/EID_RoosterMech.EID_RoosterMech
+[Rock Paper Scissors] /Game/Athena/Items/Cosmetics/Dances/EID_RockPaperScissors.EID_RockPaperScissors
+[Rock Out] /Game/Athena/Items/Cosmetics/Dances/EID_RockGuitar.EID_RockGuitar
+[Rocket Rodeo] /Game/Athena/Items/Cosmetics/Dances/EID_RocketRodeo.EID_RocketRodeo
+[The Robot] /Game/Athena/Items/Cosmetics/Dances/EID_Robot.EID_Robot
+[Ride The Pony] /Game/Athena/Items/Cosmetics/Dances/EID_RideThePony_Athena.EID_RideThePony_Athena
+[Pony Up] /Game/Athena/Items/Cosmetics/Dances/EID_RideThePonyTwo.EID_RideThePonyTwo
+[Regal Wave] /Game/Athena/Items/Cosmetics/Dances/EID_RegalWave.EID_RegalWave
+[Red Card] /Game/Athena/Items/Cosmetics/Dances/EID_RedCard.EID_RedCard
+[Rage Quit] /Game/Athena/Items/Cosmetics/Dances/EID_RageQuit.EID_RageQuit
+[Jamboree] /Game/Athena/Items/Cosmetics/Dances/EID_QuickSweeper.EID_QuickSweeper
+[Pure Salt] /Game/Athena/Items/Cosmetics/Dances/EID_PureSalt.EID_PureSalt
+[Pumpernickel] /Game/Athena/Items/Cosmetics/Dances/EID_Pump.EID_Pump
+[Unwrapped] /Game/Athena/Items/Cosmetics/Dances/EID_PresentOpening.EID_PresentOpening
+[Praise The Tomato] /Game/Athena/Items/Cosmetics/Dances/EID_PraiseTheTomato.EID_PraiseTheTomato
+[Storm Salutation] /Game/Athena/Items/Cosmetics/Dances/EID_PraiseStorm.EID_PraiseStorm
+[Pop Lock] /Game/Athena/Items/Cosmetics/Dances/EID_PopLock.EID_PopLock
+[Star Power] /Game/Athena/Items/Cosmetics/Dances/EID_PopDance01.EID_PopDance01
+[Popcorn] /Game/Athena/Items/Cosmetics/Dances/EID_Popcorn.EID_Popcorn
+[Pizza Party ] /Game/Athena/Items/Cosmetics/Dances/EID_Pizzatime.EID_PizzaTime
+[Boobytrapped] /Game/Athena/Items/Cosmetics/Dances/EID_PirateGold.EID_PirateGold
+[B.R.U.T.A.L. Dab] /Game/Athena/Items/Cosmetics/Dances/EID_OstrichSpin.EID_OstrichSpin
+[On The Hook] /Game/Athena/Items/Cosmetics/Dances/EID_OnTheHook.EID_OnTheHook
+[No Sweat] /Game/Athena/Items/Cosmetics/Dances/EID_OneArmFloss.EID_OneArmFloss
+[Old School ] /Game/Athena/Items/Cosmetics/Dances/EID_OG_RunningMan.EID_OG_RunningMan
+[Slitherin'] /Game/Athena/Items/Cosmetics/Dances/EID_Octopus.EID_Octopus
+[Finger Wag] /Game/Athena/Items/Cosmetics/Dances/EID_NotToday.EID_NotToday
+[It's Go Time!] /Game/Athena/Items/Cosmetics/Dances/EID_NeedToGo.EID_NeedToGo
+[My Idol!] /Game/Athena/Items/Cosmetics/Dances/EID_MyIdol.EID_MyIdol
+[Moon Bounce] /Game/Athena/Items/Cosmetics/Dances/EID_Moonwalking.EID_Moonwalking
+[Mind Blown] /Game/Athena/Items/Cosmetics/Dances/EID_MindBlown.EID_MindBlown
+[Mime Time] /Game/Athena/Items/Cosmetics/Dances/EID_Mime.EID_Mime
+[Mic Drop] /Game/Athena/Items/Cosmetics/Dances/EID_MicDrop.EID_MicDrop
+[Peely Pulse] /Game/Athena/Items/Cosmetics/Dances/EID_MechPeely.EID_MechPeely
+[Punched Up] /Game/Athena/Items/Cosmetics/Dances/EID_MartialArts.EID_MartialArts
+[Shake It Up] /Game/Athena/Items/Cosmetics/Dances/EID_Maracas.EID_Maracas
+[Raining Doubloons] /Game/Athena/Items/Cosmetics/Dances/EID_MakeItRainV2.EID_MakeItRainV2
+[Make It Rain] /Game/Athena/Items/Cosmetics/Dances/EID_MakeItRain.EID_MakeItRain
+[Make It Plantain] /Game/Athena/Items/Cosmetics/Dances/EID_MakeItPlantain.EID_MakeItPlantain
+[Behold!] /Game/Athena/Items/Cosmetics/Dances/EID_LookAtThis.EID_LookAtThis
+[Lock It Up] /Game/Athena/Items/Cosmetics/Dances/EID_LockItUp.EID_LockItUp
+[Glitter-up] /Game/Athena/Items/Cosmetics/Dances/EID_LlamaRider_Glitter.EID_LlamaRider_Glitter
+[Llama Conga] /Game/Athena/Items/Cosmetics/Dances/EID_LlamaMarch.EID_LlamaMarch
+[Llama Bell] /Game/Athena/Items/Cosmetics/Dances/EID_LlamaBell.EID_LlamaBell
+[Living Large] /Game/Athena/Items/Cosmetics/Dances/EID_LivingLarge.EID_LivingLarge
+[Lazy Shuffle] /Game/Athena/Items/Cosmetics/Dances/EID_LazyShuffle.EID_LazyShuffle
+[Laugh It Up] /Game/Athena/Items/Cosmetics/Dances/EID_Laugh.EID_Laugh
+[Lazer Flex] /Game/Athena/Items/Cosmetics/Dances/EID_LasagnaFlex.EID_LasagnaFlex
+[Lazer Blast] /Game/Athena/Items/Cosmetics/Dances/EID_LasagnaDance.EID_LasagnaDance
+[Respect] /Game/Athena/Items/Cosmetics/Dances/EID_KungFuSalute.EID_KungFuSalute
+[Glitter] /Game/Athena/Items/Cosmetics/Dances/EID_KpopDance04.EID_KpopDance04
+[Scenario] /Game/Athena/Items/Cosmetics/Dances/EID_KPopDance03.EID_KPopDance03
+[Smooth Moves] /Game/Athena/Items/Cosmetics/Dances/EID_KPopDance02.EID_KPopDance02
+[True Heart] /Game/Athena/Items/Cosmetics/Dances/EID_KPopDance01.EID_KPopDance01
+[Cat Flip] /Game/Athena/Items/Cosmetics/Dances/EID_Kittycat.EID_Kittycat
+[Kiss Kiss] /Game/Athena/Items/Cosmetics/Dances/EID_KissKiss.EID_KissKiss
+[Eagle] /Game/Athena/Items/Cosmetics/Dances/EID_KEagle.EID_KEagle
+[Jumping Jacks] /Game/Athena/Items/Cosmetics/Dances/EID_JumpingJack.EID_JumpingJack
+[Jugglin'] /Game/Athena/Items/Cosmetics/Dances/EID_Juggler.EID_Juggler
+[Jazz Hands] /Game/Athena/Items/Cosmetics/Dances/EID_JazzHands.EID_JazzHands
+[Slick] /Game/Athena/Items/Cosmetics/Dances/EID_JazzDance.EID_JazzDance
+[Jaywalking] /Game/Athena/Items/Cosmetics/Dances/EID_Jaywalking.EID_Jaywalking
+[Clean Groove] /Game/Athena/Items/Cosmetics/Dances/EID_Jammin.EID_Jammin
+[Step It Up] /Game/Athena/Items/Cosmetics/Dances/EID_IrishJig.EID_IrishJig
+[Intensity] /Game/Athena/Items/Cosmetics/Dances/EID_Intensity.EID_Intensity
+[Infinite Dab] /Game/Athena/Items/Cosmetics/Dances/EID_InfiniteDab.EID_InfiniteDab
+[Lavish] /Game/Athena/Items/Cosmetics/Dances/EID_IndianDance.EID_IndianDance
+[IDK] /Game/Athena/Items/Cosmetics/Dances/EID_IDontKnow.EID_IDontKnow
+[Point It Out] /Game/Athena/Items/Cosmetics/Dances/EID_IceKing.EID_IceKing
+[Hype] /Game/Athena/Items/Cosmetics/Dances/EID_Hype.EID_Hype
+[Hoop Master] /Game/Athena/Items/Cosmetics/Dances/EID_HulaHoop.EID_HulaHoop
+[Hula] /Game/Athena/Items/Cosmetics/Dances/EID_Hula.EID_Hula
+[Hot Stuff] /Game/Athena/Items/Cosmetics/Dances/EID_HotStuff.EID_HotStuff
+[Bouncer] /Game/Athena/Items/Cosmetics/Dances/EID_Hopper.EID_Hopper
+[Hang on] /Game/Athena/Items/Cosmetics/Dances/EID_HoldOnAMinute.EID_HoldOnAMinute
+[Hitchhiker] /Game/Athena/Items/Cosmetics/Dances/EID_Hitchhiker.EID_Hitchhiker
+[Business Hips] /Game/Athena/Items/Cosmetics/Dances/EID_HipToBeSquare.EID_HipToBeSquare
+[Free Flow] /Game/Athena/Items/Cosmetics/Dances/EID_HipHopS7.EID_HipHopS7
+[Breakdown] /Game/Athena/Items/Cosmetics/Dances/EID_HipHopS5.EID_HipHopS5
+[Freestylin'] /Game/Athena/Items/Cosmetics/Dances/EID_HipHop01.EID_HipHop01
+[Daydream] /Game/Athena/Items/Cosmetics/Dances/EID_HiLowWave.EID_HiLowWave
+[Click!] /Game/Athena/Items/Cosmetics/Dances/EID_HeelClick.EID_HeelClick
+[Bobbin'] /Game/Athena/Items/Cosmetics/Dances/EID_HeadShake.EID_HeadShake
+[Headbanger] /Game/Athena/Items/Cosmetics/Dances/EID_HeadBang.EID_HeadBang
+[Hello Friend] /Game/Athena/Items/Cosmetics/Dances/EID_HappyWave.EID_HappyWave
+[Tra La La] /Game/Athena/Items/Cosmetics/Dances/EID_HappySkipping.EID_HappySkipping
+[Dabstand] /Game/Athena/Items/Cosmetics/Dances/EID_HandstandLegDab.EID_HandstandLegDab
+[Hand Signals] /Game/Athena/Items/Cosmetics/Dances/EID_HandSignals.EID_HandSignals
+[Treat Yourself] /Game/Athena/Items/Cosmetics/Dances/EID_HalloweenCandy.EID_HalloweenCandy
+[Guitar Walk] /Game/Athena/Items/Cosmetics/Dances/EID_GuitarWalk.EID_GuitarWalk
+[Vibin'] /Game/Athena/Items/Cosmetics/Dances/EID_Grooving.EID_Grooving
+[Groove Jam] /Game/Athena/Items/Cosmetics/Dances/EID_GrooveJam.EID_GrooveJam
+[Infectious] /Game/Athena/Items/Cosmetics/Dances/EID_GothDance.EID_GothDance
+[Orange Justice] /Game/Athena/Items/Cosmetics/Dances/EID_GoodVibes.EID_GoodVibes
+[Golf Clap] /Game/Athena/Items/Cosmetics/Dances/EID_GolfClap.EID_GolfClap
+[Glowsticks] /Game/Athena/Items/Cosmetics/Dances/EID_GlowstickDance.EID_GlowstickDance
+[Get Funky] /Game/Athena/Items/Cosmetics/Dances/EID_GetFunky.EID_GetFunky
+[Laid Back Shuffle] /Game/Athena/Items/Cosmetics/Dances/EID_GabbyHipHop_01.EID_GabbyHipHop_01
+[Fresh] /Game/Athena/Items/Cosmetics/Dances/EID_Fresh.EID_Fresh
+[Floss] /Game/Athena/Items/Cosmetics/Dances/EID_Floss.EID_Floss
+[Fandangle] /Game/Athena/Items/Cosmetics/Dances/EID_Floppy.EID_Floppy
+[Flex On 'Em] /Game/Athena/Items/Cosmetics/Dances/EID_Flex02.EID_Flex02
+[Gun Show] /Game/Athena/Items/Cosmetics/Dances/EID_Flex.EID_Flex
+[Flapper] /Game/Athena/Items/Cosmetics/Dances/EID_Flapper.EID_Flapper
+[Flamenco] /Game/Athena/Items/Cosmetics/Dances/EID_Flamenco.EID_Flamenco
+[Fist Pump] /Game/Athena/Items/Cosmetics/Dances/EID_FistPump.EID_FistPump
+[Rocket Spinner] /Game/Athena/Items/Cosmetics/Dances/EID_FireworksSpin.EID_FireworksSpin
+[Fire Spinner] /Game/Athena/Items/Cosmetics/Dances/EID_FireDance.EID_FireDance
+[Finger Guns] /Game/Athena/Items/Cosmetics/Dances/EID_FingerGuns.EID_FingerGuns
+[Fanciful] /Game/Athena/Items/Cosmetics/Dances/EID_FancyWorkout.EID_FancyWorkout
+[Fancy Feet] /Game/Athena/Items/Cosmetics/Dances/EID_FancyFeet.EID_FancyFeet
+[Face Palm] /Game/Athena/Items/Cosmetics/Dances/EID_Facepalm.EID_Facepalm
+[Vivacious] /Game/Athena/Items/Cosmetics/Dances/EID_Everytime.EID_Everytime
+[Electro Swing] /Game/Athena/Items/Cosmetics/Dances/EID_ElectroSwing.EID_ElectroSwing
+[Signature Shuffle] /Game/Athena/Items/Cosmetics/Dances/EID_ElectroShuffle_V2.EID_ElectroShuffle_V2
+[Electro Shuffle] /Game/Athena/Items/Cosmetics/Dances/EID_ElectroShuffle.EID_ElectroShuffle
+[Squat Kick] /Game/Athena/Items/Cosmetics/Dances/EID_EasternBloc.EID_EasternBloc
+[Brush Your Shoulders] /Game/Athena/Items/Cosmetics/Dances/EID_DustOffShoulders.EID_DustOffShoulders
+[Job Well Done] /Game/Athena/Items/Cosmetics/Dances/EID_DustingHands.EID_DustingHands
+[Buckets] /Game/Athena/Items/Cosmetics/Dances/EID_Dunk.EID_Dunk
+[Featherweight] /Game/Athena/Items/Cosmetics/Dances/EID_Dumbbell_Lift.EID_Dumbbell_Lift
+[Drum Major] /Game/Athena/Items/Cosmetics/Dances/EID_DrumMajor.EID_DrumMajor
+[Dream Feet] /Game/Athena/Items/Cosmetics/Dances/EID_DreamFeet.EID_DreamFeet
+[Revel] /Game/Athena/Items/Cosmetics/Dances/EID_Doublesnap.EID_Doublesnap
+[Drop The Bass] /Game/Athena/Items/Cosmetics/Dances/EID_DJ01.EID_DJ01
+[Disco Fever] /Game/Athena/Items/Cosmetics/Dances/EID_DiscoFever.EID_DiscoFever
+[Denied] /Game/Athena/Items/Cosmetics/Dances/EID_Disagree.EID_Disagree
+[Rawr] /Game/Athena/Items/Cosmetics/Dances/EID_Dinosaur.EID_Dinosaur
+[Deep Dab] /Game/Athena/Items/Cosmetics/Dances/EID_DeepDab.EID_DeepDab
+[Levitate] /Game/Athena/Items/Cosmetics/Dances/EID_Davinci.EID_Davinci
+[Dance Moves] /Game/Athena/Items/Cosmetics/Dances/EID_DanceMoves.EID_DanceMoves
+[Dab] /Game/Athena/Items/Cosmetics/Dances/EID_Dab.EID_Dab
+[Waterworks] /Game/Athena/Items/Cosmetics/Dances/EID_Cry.EID_Cry
+[Criss Cross] /Game/Athena/Items/Cosmetics/Dances/EID_CrissCross.EID_CrissCross
+[Crazy Feet] /Game/Athena/Items/Cosmetics/Dances/EID_CrazyFeet.EID_CrazyFeet
+[Crackdown] /Game/Athena/Items/Cosmetics/Dances/EID_CrackshotDance.EID_CrackshotDance
+[Crabby] /Game/Athena/Items/Cosmetics/Dances/EID_CrabDance.EID_CrabDance
+[Knee Slapper] /Game/Athena/Items/Cosmetics/Dances/EID_CowboyDance.EID_CowboyDance
+[Overdrive] /Game/Athena/Items/Cosmetics/Dances/EID_CoolRobot.EID_CoolRobot
+[Conga] /Game/Athena/Items/Cosmetics/Dances/EID_Conga.EID_Conga
+[Confused] /Game/Athena/Items/Cosmetics/Dances/EID_Confused.EID_Confused
+[Take 14] /Game/Athena/Items/Cosmetics/Dances/EID_Clapperboard.EID_Clapperboard
+[Go! Go! Go!] /Game/Athena/Items/Cosmetics/Dances/EID_Chug.EID_Chug
+[Distracted] /Game/Athena/Items/Cosmetics/Dances/EID_Chopsticks.EID_Chopsticks
+[Cluck Strut] /Game/Athena/Items/Cosmetics/Dances/EID_ChickenMoves.EID_ChickenMoves
+[Chicken] /Game/Athena/Items/Cosmetics/Dances/EID_Chicken.EID_Chicken
+[Cheer Up] /Game/Athena/Items/Cosmetics/Dances/EID_Cheerleading.EID_Cheerleading
+[Jubilation] /Game/Athena/Items/Cosmetics/Dances/EID_Celebration.EID_Celebration
+[Cartwheelin'] /Game/Athena/Items/Cosmetics/Dances/EID_Cartwheel.EID_Cartwheel
+[Capoeira] /Game/Athena/Items/Cosmetics/Dances/EID_Capoeira.EID_Capoeira
+[Sugar Rush] /Game/Athena/Items/Cosmetics/Dances/EID_CandyDance.EID_CandyDance
+[Calculated] /Game/Athena/Items/Cosmetics/Dances/EID_Calculated.EID_Calculated
+[Prickly Pose] /Game/Athena/Items/Cosmetics/Dances/EID_CactusTPose.EID_CactusTPose
+[Burpee] /Game/Athena/Items/Cosmetics/Dances/EID_Burpee.EID_Burpee
+[Sizzlin'] /Game/Athena/Items/Cosmetics/Dances/EID_BurgerFlipping.EID_BurgerFlipping
+[Bunny Hop] /Game/Athena/Items/Cosmetics/Dances/EID_Bunnyhop.EID_Bunnyhop
+[Bring It] /Game/Athena/Items/Cosmetics/Dances/EID_BringItOn.EID_BringItOn
+[Breaking Point] /Game/Athena/Items/Cosmetics/Dances/EID_BreakYou.EID_BreakYou
+[Breakneck] /Game/Athena/Items/Cosmetics/Dances/EID_Breakdance2.EID_Breakdance2
+[Breakin'] /Game/Athena/Items/Cosmetics/Dances/EID_BreakDance.EID_BreakDance
+[Switchstep] /Game/Athena/Items/Cosmetics/Dances/EID_Breakboy.EID_Breakboy
+[Boogie Down] /Game/Athena/Items/Cosmetics/Dances/EID_BoogieDown.EID_BoogieDown
+[Boneless] /Game/Athena/Items/Cosmetics/Dances/EID_Boneless.EID_Boneless
+[Blowing Bubbles] /Game/Athena/Items/Cosmetics/Dances/EID_BlowingBubbles.EID_BlowingBubbles
+[Bat Signal] /Game/Athena/Items/Cosmetics/Dances/EID_BlackMondayMale_E0VSB.EID_BlackMondayMale_E0VSB
+[Set_01_CA] /Game/Athena/Items/Cosmetics/Dances/EID_BlackMondayMale2.EID_BlackMondayMale2
+[Whipcrack] /Game/Athena/Items/Cosmetics/Dances/EID_BlackMondayFemale_6HO4L.EID_BlackMondayFemale_6HO4L
+[Billy Bounce] /Game/Athena/Items/Cosmetics/Dances/EID_BillyBounce.EID_BillyBounce
+[Best Mates] /Game/Athena/Items/Cosmetics/Dances/EID_BestMates.EID_BestMates
+[Zany] /Game/Athena/Items/Cosmetics/Dances/EID_Bendy.EID_Bendy
+[Baller] /Game/Athena/Items/Cosmetics/Dances/EID_Basketball.EID_Basketball
+[Nana Nana] /Game/Athena/Items/Cosmetics/Dances/EID_Banana.EID_Banana
+[Flippin' Incredible] /Game/Athena/Items/Cosmetics/Dances/EID_Backflip.EID_Backflip
+[Bulletproof] /Game/Athena/Items/Cosmetics/Dances/EID_AssassinVest.EID_AssassinVest
+[Be Seeing You] /Game/Athena/Items/Cosmetics/Dances/EID_AssassinSalute.EID_AssassinSalute
+[Dance Off] /Game/Athena/Items/Cosmetics/Dances/EID_AshtonSaltLake.EID_AshtonSaltLake
+[Widow?s Pirouette] /Game/Athena/Items/Cosmetics/Dances/EID_AshtonBoardwalk.EID_AshtonBoardwalk
+[Backstroke] /Game/Athena/Items/Cosmetics/Dances/EID_ArmUpDance.EID_ArmUpDance
+[Team Space] /Game/Athena/Items/Cosmetics/Dances/EID_AlienSupport.EID_AlienSupport
+[Extraterrestrial] /Game/Athena/Items/Cosmetics/Dances/EID_Alien.EID_Alien
+[Air Horn] /Game/Athena/Items/Cosmetics/Dances/EID_AirHorn.EID_AirHorn
+[Bombastic] /Game/Athena/Items/Cosmetics/Dances/EID_AfroHouse.EID_AfroHouse
+[Work It Out] /Game/Athena/Items/Cosmetics/Dances/EID_Aerobics.EID_Aerobics
+[Ground Pound] /Game/Athena/Items/Cosmetics/Dances/EID_AcrobaticSuperhero.EID_AcrobaticSuperhero
+[Accolades] /Game/Athena/Items/Cosmetics/Dances/EID_Accolades.EID_Accolades
+[Set_01_AA] /Game/Athena/Items/Cosmetics/Dances/EID_ProVisitorProtest.EID_ProVisitorProtest
+[Set_01_BA] /Game/Athena/Items/Cosmetics/Dances/EID_AntiVisitorProtest.EID_AntiVisitorProtest
