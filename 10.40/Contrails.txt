@@ -1,0 +1,52 @@
+Fortnite Version 10.400000
+
+[Random] /Game/Athena/Items/Cosmetics/Contrails/Trails_Random.Trails_Random
+[Virulent Flames] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_31_GreenFlame.Trails_ID_31_GreenFlame
+[Celestial] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_075_Celestial.Trails_ID_075_Celestial
+[Rift Lightning] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_074_DriftLightning.Trails_ID_074_DriftLightning
+[Popcorn] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_068_Popcorn.Trails_ID_068_Popcorn
+[Overlay] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_066_TacticalHUD.Trails_ID_066_TacticalHUD
+[Beat Drop] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_065_DJRemix.Trails_ID_065_DJRemix
+[Beachballs] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_063_BeachBalls.Trails_ID_063_BeachBalls
+[Blue Fusion] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_059_Sony2.Trails_ID_059_Sony2
+[Plasma Trail] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_057_BattleSuit.Trails_ID_057_BattleSuit
+[Lightning strike] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_056_StormTracker.Trails_ID_056_StormTracker
+[Bananas!] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_055_Bananas.Trails_ID_055_Bananas
+[Vibrant] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_054_KpopGlow.Trails_ID_054_KpopGlow
+[Neo Tubes] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_051_NeonTubes.Trails_ID_051_NeonTubes
+[Phantasm] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_048_Spectral.Trails_ID_048_Spectral
+[Ballistics] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_047_AmmoBelt.Trails_ID_047_AmmoBelt
+[Clovers] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_046_Clover.Trails_ID_046_Clover
+[Flying Standard] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_045_Undertow.Trails_ID_045_Undertow
+[Lava] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_044_Lava.Trails_ID_044_Lava
+[Glyphs] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_037_Glyphs.Trails_ID_037_Glyphs
+[Fiber Optics] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_036_FiberOptics.Trails_ID_036_FiberOptics
+[Swirls] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_034_SwirlySmoke.Trails_ID_034_SwirlySmoke
+[Snowflakes] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_033_Snowflakes.Trails_ID_033_Snowflakes
+[String Lights] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_032_StringLights.Trails_ID_032_StringLights
+[Chrono] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_027_Sands.Trails_ID_027_Sands
+[Bats!] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_026_Bats.Trails_ID_026_Bats
+[Jack-O-Lantern] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_025_JackOLantern.Trails_ID_025_JackOLantern
+[Exhaust] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_024_DieselSmoke.Trails_ID_024_DieselSmoke
+[Fireflies] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_023_Fireflies.Trails_ID_023_Fireflies
+[Spectral Essence] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_022_GreenSmoke.Trails_ID_022_GreenSmoke
+[Cash Flow] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_021_Bling.Trails_ID_021_Bling
+[Dark Feathers] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_020_RavenQuill.Trails_ID_020_RavenQuill
+[Artifact] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_019_PSBurnout.Trails_ID_019_PSBurnout
+[Runic] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_018_Runes.Trails_ID_018_Runes
+[Lanterns] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_017_Lanterns.Trails_ID_017_Lanterns
+[Ice Crystals] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_016_Ice.Trails_ID_016_Ice
+[Embers] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_015_GoldenStarfish.Trails_ID_015_GoldenStarfish
+[Vines] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_014_Vines.Trails_ID_014_Vines
+[Shooting Star] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_013_ShootingStar.Trails_ID_013_ShootingStar
+[Spray Paint] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_012_Spraypaint.Trails_ID_012_Spraypaint
+[Glitch in the System] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_011_Glitch.Trails_ID_011_Glitch
+[Retro Sci-fi] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_010_RetroScifi.Trails_ID_010_RetroScifi
+[Hearts] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_009_Hearts.Trails_ID_009_Hearts
+[Lightning] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_008_Lightning.Trails_ID_008_Lightning
+[TP] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_007_TP.Trails_ID_007_TP
+[Bubbles] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_005_Bubbles.Trails_ID_005_Bubbles
+[Ultramarine] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_004_BlueStreak.Trails_ID_004_BlueStreak
+[Flames] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_003_Fire.Trails_ID_003_Fire
+[Rainbow] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_002_Rainbow.Trails_ID_002_Rainbow
+[All-Star] /Game/Athena/Items/Cosmetics/Contrails/Trails_ID_001_Disco.Trails_ID_001_Disco

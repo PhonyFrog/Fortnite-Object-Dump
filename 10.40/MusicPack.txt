@@ -1,0 +1,35 @@
+Fortnite Version 10.400000
+
+[TBD] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_000_Default.MusicPack_000_Default
+[Random] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_Random.MusicPack_Random
+[TBD] /Game/Items/Cosmetics/MusicPacks/MusicPack_000_STW_Default.MusicPack_000_STW_Default
+[8-bit Beat] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_031_ChipTune.MusicPack_031_ChipTune
+[Caped Crusader] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_030_BlackMonday_X91ZH.MusicPack_030_BlackMonday_X91ZH
+[Wiggle Wild] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_029_Wiggle.MusicPack_029_Wiggle
+[Llama Beat] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_028_LlamaBell.MusicPack_028_LlamaBell
+[Default Fire] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_027_LasagnaDope.MusicPack_027_LasagnaDope
+[Default Vibe] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_026_LasagnaChill.MusicPack_026_LasagnaChill
+[Rainy Days] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_025_MakeItRain.MusicPack_025_MakeItRain
+[The Final Showdown] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_024_Showdown.MusicPack_024_Showdown
+[OG (Classic)] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_023_OG.MusicPack_023_OG
+[Sweet Dreams] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_022_DayDream.MusicPack_022_DayDream
+[Best Buds] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_020_BunkerJam.MusicPack_020_BunkerJam
+[B-Day Beats] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_019_Birthday2019.MusicPack_019_Birthday2019
+[Sparkles] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_018_Glitter.MusicPack_018_Glitter
+[Saxy Groove] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_017_PhoneItIn.MusicPack_017_PhoneItIn
+[Winner's Circle] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_016_WorldCup.MusicPack_016_WorldCup
+[Justice] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_015_GoodVibes.MusicPack_015_GoodVibes
+[Neo World] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_014_S9Cine.MusicPack_014_S9Cine
+[Afterburner] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_013_RoboTrack.MusicPack_013_RoboTrack
+[Electro-fied!] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_012_ElectroSwing.MusicPack_012_ElectroSwing
+[Get funky] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_011_GetFunky.MusicPack_011_GetFunky
+[Marathon] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_010_RunningMan.MusicPack_010_RunningMan
+[Star Power] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_009_StarPower.MusicPack_009_StarPower
+[Coral Chorus] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_008_Coral.MusicPack_008_Coral
+[Ahoy!] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_007_Pirate.MusicPack_007_Pirate
+[Twist] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_006_Twist.MusicPack_006_Twist
+[Disco] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_005_Disco.MusicPack_005_Disco
+[Festive] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_004_Holiday.MusicPack_004_Holiday
+[OG (Remix)] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_003_OGRemix.MusicPack_003_OGRemix
+[Eerie] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_002_Spooky.MusicPack_002_Spooky
+[Squeaky Clean] /Game/Athena/Items/Cosmetics/MusicPacks/MusicPack_001_Floss.MusicPack_001_Floss

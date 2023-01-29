@@ -1,0 +1,134 @@
+Fortnite Version 10.400000
+
+[Random] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_Random.Wrap_Random
+[Lotus Star] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_144_Sakura.Wrap_144_Sakura
+[Rainbow Riot] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_143_RainbowStrike.Wrap_143_RainbowStrike
+[Modern Hex] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_142_HoneycombGrey.Wrap_142_HoneycombGrey
+[Prismatic Edge] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_139_Prismatic.Wrap_139_Prismatic
+[Forever Tuesday] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_138_Taco.Wrap_138_Taco
+[Dreamy] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_137_SleepyTime.Wrap_137_SleepyTime
+[Faded Cool] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_136_Punchy.Wrap_136_Punchy
+[Taffy] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_135_LicoriceSwirl.Wrap_135_LicoriceSwirl
+[Fingerprint] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_134_Fingerprint.Wrap_134_Fingerprint
+[Angular Flow] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_133_MetalTri.Wrap_133_MetalTri
+[Mayhem] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_132_BarbequeLarry.Wrap_132_BarbequeLarry
+[Zesty] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_130_LemonLime.Wrap_130_LemonLime
+[Square Stream] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_126_CircleFade.Wrap_126_CircleFade
+[Clockwork] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_125_ClockWork.Wrap_125_Clockwork
+[Angled Fire] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_124_Syko.Wrap_124_Syko
+[Cuddle Camo] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_123_StreetPink.Wrap_123_StreetPink
+[Red Camo] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_122_StandardRedCamo.Wrap_122_StandardRedCamo
+[Radiant Blue] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_121_TechOpsBlue.Wrap_121_TechOpsBlue
+[White Dragon] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_119_DragonTag.Wrap_119_DragonTag
+[Corrupted] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_118_AstronautEvil.Wrap_118_AstronautEvil
+[Meteor] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_117_Asteroid.Wrap_117_Asteroid
+[Emotical] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_116_Emotigun.Wrap_116_Emotigun
+[Red Plastic] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_115_PlasticArmyRed.Wrap_115_PlasticArmyRed
+[Radiant Zero] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_113_ZeroPointFloor.Wrap_113_ZeroPointFloor
+[Fractal Zero] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_112_ZeroPointEnergy.Wrap_112_ZeroPointEnergy
+[Eternal Zero] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_111_ZeroPointCeiling.Wrap_111_ZeroPointCeiling
+[Maximum Drift] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_110_StreetRacerDriftRemix.Wrap_110_StreetRacerDriftRemix
+[Scavenger] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_109_RustRemix.Wrap_109_RustRemix
+[Knighted] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_108_KnightRemix.Wrap_108_KnightRemix
+[Emote Camo] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_107_GraffitiRemix.Wrap_107_GraffitiRemix
+[EQ] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_106_DJRemix.Wrap_106_DJRemix
+[Kevin] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_105_Cube.Wrap_105_Cube
+[Bubbly Bombs] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_104_Bubblegum.Wrap_104_Bubblegum
+[Red Line] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_103_Yatter.Wrap_103_Yatter
+[World Cup 2019] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_102_WorldCup2019.Wrap_102_WorldCup2019
+[Mecha Team] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_101_Multibot.Wrap_101_Multibot
+[Squared] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_100_DigitalShift.Wrap_100_DigitalShift
+[Stinger] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_099_CyberKarate.Wrap_099_CyberKarate
+[Frosted] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_098_Birthday2019.Wrap_098_Birthday2019
+[Scanline] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_097_NeonLines.Wrap_097_NeonLines
+[Bizzy] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_096_Zodiac.Wrap_096_Zodiac
+[Tendrils] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_095_WeirdObjects.Wrap_095_WeirdObjects
+[Hypermelon] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_094_Watermelon.Wrap_094_Watermelon
+[Hexform] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_093_TechMage.Wrap_093_TechMage
+[Flowerprint] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_092_Sarong.Wrap_092_Sarong
+[Neon Tropics] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_091_HoverSurfboard.Wrap_091_HoverSurfboard
+[Essence] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_090_GlowBro2.Wrap_090_GlowBro2
+[Core] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_089_GlowBro1.Wrap_089_GlowBro1
+[Kitsune] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_088_DriftSummer.Wrap_088_DriftSummer
+[Brite Stars] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_087_BriteBomberSummer.Wrap_087_BriteBomberSummer
+[Blue Camo] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_086_StandardBlueCamo.Wrap_086_StandardBlueCamo
+[Tidal Wave] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_085_Beach.Wrap_085_Beach
+[Fireworks] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_084_4thofJuly.Wrap_084_4thofJuly
+[Grey Toy] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_083_PlasticArmyGrey.Wrap_083_PlasticArmyGrey
+[Green Toy] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_082_PlasticArmyGreen.Wrap_082_PlasticArmyGreen
+[Array] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_081_Blackout2.Wrap_081_Blackout2
+[Contrast] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_080_Blackout1.Wrap_080_Blackout1
+[Fiend] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_079_Mash.Wrap_079_Mash
+[Slurp!] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_078_SlurpJuice.Wrap_078_SlurpJuice
+[Turbulent] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_077_StormSoldier.Wrap_077_StormSoldier
+[Hex Wave] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_076_CyberRunner.Wrap_076_CyberRunner
+[Ripple] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_075_LineSwirl.Wrap_075_LineSwirl
+[Slippery] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_074_TeriyakiFishVR.Wrap_074_TeriyakiFishVR
+[Fishy] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_073_TeriyakiFish2.Wrap_073_TeriyakiFish2
+[Fish Face] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_072_TeriyakiFish.Wrap_072_TeriyakiFish
+[Ruff] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_071_Pug.Wrap_071_Pug
+[Emblem] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_070_MaskedWarrior.Wrap_070_MaskedWarrior
+[Converge] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_069_Geisha.Wrap_069_Geisha
+[Enigma] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_067_StreetDemon.Wrap_067_StreetDemon
+[Assassin] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_066_AssassinSuit02.Wrap_066_AssassinSuit02
+[Boogeyman] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_065_AssassinSuit01.Wrap_065_AssassinSuit01
+[Royale Air Force] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_064_Raptor.Wrap_064_Raptor
+[Bubblegum] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_063_StrawberryPilot.Wrap_063_StrawberryPilot
+[Too Tilted] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_062_NeoTag.Wrap_062_NeoTag
+[Pink Splatter] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_061_PurpleSplatter.Wrap_061_PurpleSplatter
+[Sentinel] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_060_Rooster.Wrap_060_Rooster
+[Power Surge] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_059_BattleSuit.Wrap_059_BattleSuit
+[Storm] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_058_Storm.Wrap_058_Storm
+[Ripe] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_057_Banana.Wrap_057_Banana
+[Lion] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_055_Lion.Wrap_055_Lion
+[Jaguar] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_054_Jaguar.Wrap_054_Jaguar
+[Jackal] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_053_Jackel.Wrap_053_Jackel
+[Rhino] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_052_Rhino.Wrap_052_Rhino
+[Shard Break] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_051_ShatterFly.Wrap_051_ShatterFly
+[Triassic] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_050_PajamaPartyRed.Wrap_050_PajamaPartyRed
+[Dino] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_049_PajamaPartyGreen.Wrap_049_PajamaPartyGreen
+[Pastel Print] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_048_Bunny2.Wrap_048_Bunny2
+[Spring Party] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_047_Bunny.Wrap_047_Bunny
+[Cursed] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_046_Demon.Wrap_046_Demon
+[Divine] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_045_Angel.Wrap_045_Angel
+[Dogfight] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_044_BattlePlane.Wrap_044_BattlePlane
+[Digital Grayscale] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_043_Bandolette.Wrap_043_Bandolette
+[Bandage] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_042_BandageNinja.Wrap_042_BandageNinja
+[Callsign Hornet] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_041_PilotBee.Wrap_041_PilotBee
+[Callsign Falcon] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_040_PilotFalcon.Wrap_040_PilotFalcon
+[Callsign Wolf] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_039_PilotWolf.Wrap_039_PilotWolf
+[Callsign Skull] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_038_PilotSkull.Wrap_038_PilotSkull
+[Burnmark] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_037_EvilSuit2.Wrap_037_EvilSuit2
+[Infernal] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_036_EvilSuit.Wrap_036_EvilSuit
+[Golden Scales] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_035_GoldenSnake.Wrap_035_GoldenSnake
+[Rivet] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_034_Waypoint.Wrap_034_Waypoint
+[Pineapple] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_033_TropicalGirl.Wrap_033_TropicalGirl
+[Spades] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_032_HeistSpade.Wrap_032_HeistSpade
+[Hearts] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_031_HeistHeart.Wrap_031_HeistHeart
+[Diamonds] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_030_HeistDiamond.Wrap_030_HeistDiamond
+[Clubs] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_029_HeistClub.Wrap_029_HeistClub
+[Heat] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_028_DevilLace.Wrap_028_DevilLace
+[Lucky] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_027_Lucky.Wrap_027_Lucky
+[Stealth Black] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_024_StealthBlack.Wrap_024_StealthBlack
+[Sunprint] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_023_Aztec.Wrap_023_Aztec
+[Gemstone] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_022_Gemstone.Wrap_022_Gemstone
+[Driftwood] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_021_Pirate.Wrap_021_Pirate
+[Tropical Camo] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_020_TropicalCamo.Wrap_020_TropicalCamo
+[Tiger Stripes] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_019_Tiger.Wrap_019_Tiger
+[Magma] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_018_Magma.Wrap_018_Magma
+[Dragon Scales] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_017_DragonNinja.Wrap_017_DragonNinja
+[Cuddle Hearts] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_016_CuddleTeam.Wrap_016_CuddleTeam
+[Chromatic] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_015_Snowboard.Wrap_015_Snowboard
+[Sprinkles] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_014_IceCream.Wrap_014_IceCream
+[Valentine] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_013_Valentines.Wrap_013_Valentines
+[Golden Clouds] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_012_DragonMask.Wrap_012_DragonMask
+[Hot & Cold] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_011_HotCold.Wrap_011_HotCold
+[Blue Metallic] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_010_BlueEmissive.Wrap_010_BlueEmissive
+[Disco] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_009_NewYears.Wrap_009_NewYears
+[Candy Cane] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_007_CandyCane.Wrap_007_CandyCane
+[Indigo Ice] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_006_Ice.Wrap_006_Ice
+[Carbon & Gold] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_005_CarbonFiber.Wrap_005_CarbonFiber
+[Durrr Burger] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_004_DurrBurgerPJs.Wrap_004_DurrBurgerPJs
+[Ultra Red] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_003_AnodizedRed.Wrap_003_AnodizedRed
+[Festive Paper] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_002_HolidayGreen.Wrap_002_HolidayGreen
+[Arctic Camo] /Game/Athena/Items/Cosmetics/ItemWraps/Wrap_001_ArcticCamo.Wrap_001_ArcticCamo

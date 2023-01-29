@@ -1,0 +1,180 @@
+Fortnite Version 10.400000
+
+[Random] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_Random.LSID_Random
+[Hit the Road] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_STW001_HitTheRoad.LSID_STW001_HitTheRoad
+[Season X] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_179_SXKey.LSID_179_SXKey
+[The Bat And The Cat] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_178_BlackMonday_S815X.LSID_178_BlackMonday_S815X
+[Hands Off] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_177_IJLlama.LSID_177_IJLlama
+[Eruption] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_176_SMVolcano.LSID_176_SMVolcano
+[Sliced Up] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_175_JMTomato.LSID_175_JMTomato
+[Last Stop] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_174_S10Cumulative10.LSID_174_S10Cumulative10
+[Ready or not...] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_173_S10Cumulative09.LSID_173_S10Cumulative09
+[Gothic] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_172_S10Cumulative08_E9M2F.LSID_172_S10Cumulative08_E9M2F
+[Summer Slurp] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_171_S10Cumulative07.LSID_171_S10Cumulative07
+[The Return] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_170_S10Cumulative06.LSID_170_S10Cumulative06
+[Catastrophic] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_169_S10Cumulative05.LSID_169_S10Cumulative05
+[Junk Storm] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_168_S10Cumulative04.LSID_168_S10Cumulative04
+[The Leftovers] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_167_S10Cumulative03.LSID_167_S10Cumulative03
+[Shootout At Sundown] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_166_S10Cumulative02.LSID_166_S10Cumulative02
+[B.R.U.T.E Squad] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_165_S10Cumulative01.LSID_165_S10Cumulative01
+[Crackshot Mural] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_164_SMCrackshot.LSID_164_SMCrackshot
+[Rocket Ride] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_163_SMRocketRide.LSID_163_SMRocketRide
+[Nevermore] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_162_H7OutfitsB.LSID_162_H7OutfitsB
+[Suit Up] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_161_H7OutfitsA.LSID_161_H7OutfitsA
+[Vengeance] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_160_KTVendetta.LSID_160_KTVendetta
+[Firewalker] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_159_KTFirewalker.LSID_159_KTFirewalker
+[Undurrr The Stars] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_158_NTDurrr.LSID_158_NTDurrr
+[Twilight Flight] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_157_NTBattleBus.LSID_157_NTBattleBus
+[Bombers] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_156_AKBrite.LSID_156_AKBrite
+[Downtown Drift] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_155_AKDrift.LSID_155_AKDrift
+[Cuddle Up] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_154_IJCuddle.LSID_154_IJCuddle
+[Boost!] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_153_IJDriftboard.LSID_153_IJDriftboard
+[Waveriding] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_152_JMLuxe.LSID_152_JMLuxe
+[Bottomless Pit] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_151_JMSparkle.LSID_151_JMSparkle
+[Visions] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_148_FortbyteReveal.LSID_148_FortbyteReveal
+[Season 9] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_147_UtopiaKey.LSID_147_UtopiaKey
+[Quest for the Cup] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_146_WorldCup2019.LSID_146_WorldCup2019
+[Ready to Fight] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_145_Doggus.LSID_145_Doggus
+[Summertime Splashdown] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_144_WaterBalloonLTM.LSID_144_WaterBalloonLTM
+[Soak It Up] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_143_SummerDays.LSID_143_SummerDays
+[Never Surrender] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_142_MashLTM.LSID_142_MashLTM
+[Strikeforce] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_141_PS06.LSID_141_PS06
+[Neon Jungle] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_140_S9Cumulative10.LSID_140_S9Cumulative10
+[Beach Bowl] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_139_S9Cumulative09.LSID_139_S9Cumulative09
+[High Score] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_138_S9Cumulative08.LSID_138_S9Cumulative08
+[Stormlight Skirmish] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_137_S9Cumulative07.LSID_137_S9Cumulative07
+[Sure shot] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_136_S9Cumulative06.LSID_136_S9Cumulative06
+[Raging Storm] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_135_S9Cumulative05.LSID_135_S9Cumulative05
+[Winner Takes All] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_134_S9Cumulative04.LSID_134_S9Cumulative04
+[Dog Days] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_133_S9Cumulative03.LSID_133_S9Cumulative03
+[Neochasers] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_132_S9Cumulative02.LSID_132_S9Cumulative02
+[Terminal Velocity] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_131_S9Cumulative01.LSID_131_S9Cumulative01
+[Rox] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_130_StrawberryPilot.LSID_130_StrawberryPilot
+[Stratus] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_129_Stormtracker.LSID_129_Stormtracker
+[Neon Glow] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_128_AuroraGlow.LSID_128_AuroraGlow
+[Brite Future] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_127_UnicornPickaxe.LSID_127_UnicornPickaxe
+[Lava Rising] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_126_FloorIsLava.LSID_126_FloorIsLava
+[Molten Legends] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_125_LavaLegends.LSID_125_LavaLegends
+[Air Royale] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_124_AirRoyale.LSID_124_AirRoyale
+[Heat] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_123_Inferno.LSID_123_Inferno
+[Mesmerized] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_122_Aztec.LSID_122_Aztec
+[Conquest] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_121_Vikings.LSID_121_Vikings
+[Assemble] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_120_Ashton.LSID_120_Ashton
+[Season 8] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_119_VolcanoKey.LSID_119_VolcanoKey
+[The Getaway] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_118_Heist.LSID_118_Heist
+[Marshmello] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_117_Squishy.LSID_117_Squishy
+[Breakthrough] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_116_S8Cumulative10.LSID_116_S8Cumulative10
+[Loot Lava] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_115_S8Cumulative09.LSID_115_S8Cumulative09
+[Ruination] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_114_S8Cumulative08.LSID_114_S8Cumulative08
+[Life Of Luxury] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_113_S8Cumulative07.LSID_113_S8Cumulative07
+[Strength Of Will] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_112_S8Cumulative06.LSID_112_S8Cumulative06
+[Hands Of Flame] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_111_S8Cumulative05.LSID_111_S8Cumulative05
+[Ripening Ritual] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_110_S8Cumulative04.LSID_110_S8Cumulative04
+[Darting Through Danger] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_109_S8Cumulative03.LSID_109_S8Cumulative03
+[Children Of The Brood] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_108_S8Cumulative02.LSID_108_S8Cumulative02
+[A New Voyage] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_107_S8Cumulative01.LSID_107_S8Cumulative01
+[Isle Of Treasure] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_106_TreasureMap.LSID_106_TreasureMap
+[Arachnids] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_105_BlackWidow.LSID_105_BlackWidow
+[Master Key] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_104_MasterKey.LSID_104_MasterKey
+[Spray Collage] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_103_SprayCollage.LSID_103_SprayCollage
+[Tricera Ops] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_102_TriceraOps.LSID_102_TriceraOps
+[The Ice Queen] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_101_IceQueen.LSID_101_IceQueen
+[Sgt. Green Clover] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_100_StPattyDay.LSID_100_StPattyDay
+[Scallywags] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_099_PirateTheme.LSID_099_PirateTheme
+[Hybrid] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_098_DragonNinja.LSID_098_DragonNinja
+[Power Chord] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_097_PowerChord.LSID_097_PowerChord
+[Season 7] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_096_PlaneKey.LSID_096_PlaneKey
+[True Form] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_095_Prisoner.LSID_095_Prisoner
+[Crackshot Special] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_094_HolidaySpecial.LSID_094_HolidaySpecial
+[Respite] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_093_S7Cumulative10.LSID_093_S7Cumulative10
+[Unchained] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_092_S7Cumulative09.LSID_092_S7Cumulative09
+[Summon The Storm] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_091_S7Cumulative08.LSID_091_S7Cumulative08
+[Unexpected Awakening] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_090_S7Cumulative07.LSID_090_S7Cumulative07
+[Order Up!] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_089_S7Cumulative06.LSID_089_S7Cumulative06
+[Teatime] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_088_S7Cumulative05.LSID_088_S7Cumulative05
+[Airtime] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_087_S7Cumulative04.LSID_087_S7Cumulative04
+[Ready For Takeoff] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_086_S7Cumulative03.LSID_086_S7Cumulative03
+[Feline By Design] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_085_S7Cumulative02.LSID_085_S7Cumulative02
+[Wide Awake] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_084_S7Cumulative01.LSID_084_S7Cumulative01
+[Crackshot] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_083_Crackshot.LSID_083_Crackshot
+[Lynx] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_082_NeonCat.LSID_082_NeonCat
+[Tender Defender] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_081_TenderDefender.LSID_081_TenderDefender
+[Gingerbread] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_080_Gingerbread.LSID_080_Gingerbread
+[X-4 Stormwing] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_079_Plane.LSID_079_Plane
+[Skull Squad] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_078_SkullTrooper.LSID_078_SkullTrooper
+[Support Squadron] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_076_Medics.LSID_076_Medics
+[Sgt. Winter] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_075_TacticalSanta.LSID_075_TacticalSanta
+[Dark Llama] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_074_DarkBomber.LSID_074_DarkBomber
+[Dusty Depot] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_073_DustyDepot.LSID_073_DustyDepot
+[Festive Firefight] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_072_WinterLauncher.LSID_072_WinterLauncher
+[Dance Party] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_071_S6Cumulative10.LSID_071_S6Cumulative10
+[Rememberance] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_070_S6Cumulative09.LSID_070_S6Cumulative09
+[On Target] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_069_S6Cumulative08.LSID_069_S6Cumulative08
+[Turning Of The Tide] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_068_S6Cumulative07.LSID_068_S6Cumulative07
+[Verge Of Despair] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_067_S6Cumulative06.LSID_067_S6Cumulative06
+[Nite Coven Roundup] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_066_S6Cumulative05.LSID_066_S6Cumulative05
+[Dinner Date At Dusk] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_065_S6Cumulative04.LSID_065_S6Cumulative04
+[Fabled Hunter] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_064_S6Cumulative03.LSID_064_S6Cumulative03
+[Wailing Wolves] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_063_S6Cumulative02.LSID_063_S6Cumulative02
+[Down On The Ranch] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_062_S6Cumulative01.LSID_062_S6Cumulative01
+[Dire] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_061_Werewolf.LSID_061_Werewolf
+[Calamity] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_060_Cowgirl.LSID_060_Cowgirl
+[Dusk] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_059_Vampire.LSID_059_Vampire
+[DJ Yonder] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_058_DJConcept.LSID_058_DJConcept
+[Pastel Patrol] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_057_Bunnies.LSID_057_Bunnies
+[Fate] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_056_Fate.LSID_056_Fate
+[Valkyrie] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_055_Valkyrie.LSID_055_Valkyrie
+[Chompmasters] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_054_Scuba.LSID_054_Scuba
+[Supply Llama] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_053_SupplyLlama.LSID_053_SupplyLlama
+[Emoticons!] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_052_EmoticonCollage.LSID_052_EmoticonCollage
+[Ravage] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_051_Ravage.LSID_051_Ravage
+[Tomato Temple] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_050_TomatoTemple.LSID_050_TomatoTemple
+[Dark Reflection] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_049_S5Cumulative10.LSID_049_S5Cumulative10
+[Six-Sided Mystery] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_048_S5Cumulative9.LSID_048_S5Cumulative9
+[Tomato Trek] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_047_S5Cumulative8.LSID_047_S5Cumulative8
+[Norse Emblem] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_046_VikingPattern.LSID_046_VikingPattern
+[Huntress] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_045_VikingFemale.LSID_045_VikingFemale
+[Flytrap] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_044_FlyTrap.LSID_044_Flytrap
+[Red Knight] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_043_RedKnight.LSID_043_RedKnight
+[Omen] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_042_Omen.LSID_042_Omen
+[Supply Llama] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_041_SupplyLlama.LSID_041_SupplyLlama
+[Sun Strider] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_040_Lifeguard.LSID_040_Lifeguard
+[Jailbirds] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_039_Jailbirds.LSID_039_Jailbirds
+[High Explosives] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_038_HighExplosives.LSID_038_HighExplosives
+[Tomatohead] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_037_Tomatohead.LSID_037_Tomatohead
+[Drift] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_036_Drift.LSID_036_Drift
+[Bandolier] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_035_Bandolier.LSID_035_Bandolier
+[Abstrakt] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_034_Abstrakt.LSID_034_Abstrakt
+[Signing Back In] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_033_S5Cumulative7.LSID_033_S5Cumulative7
+[Opening Night] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_032_S5Cumulative6.LSID_032_S5Cumulative6
+[Blast From The Past] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_031_S5Cumulative5.LSID_031_S5Cumulative5
+[Poolside Paradise] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_030_S5Cumulative4.LSID_030_S5Cumulative4
+[Track Record] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_029_S5Cumulative3.LSID_029_S5Cumulative3
+[Fairway Fun] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_028_S5Cumulative2.LSID_028_S5Cumulative2
+[Road Trip!] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_027_S5Cumulative1.LSID_027_S5Cumulative1
+[Retrofit] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_026_S4Cumulative8.LSID_026_S4Cumulative8
+[Raven] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_025_Raven.LSID_025_Raven
+[Aerosol Assassins] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_024_Graffiti.LSID_024_Graffiti
+[Zoey] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_023_Candy.LSID_023_Candy
+[Brite Gunner] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_022_BriteGunner.LSID_022_BriteGunner
+[Leviathan] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_021_Leviathan.LSID_021_Leviathan
+[Supply Drop] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_020_SupplyDrop.LSID_020_SupplyDrop
+[Squad Leader] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_019_TacticalJungle.LSID_019_TacticalJungle
+[Rex] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_018_Rex.LSID_018_Rex
+[Carbide] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_017_Carbide.LSID_017_Carbide
+[Llama Spotted] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_016_LlamaSniper.LSID_016_LlamaSniper
+[The Visitor] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_015_S4Cumulative7.LSID_015_S4Cumulative7
+[That's a Wrap!] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_014_S4Cumulative6.LSID_014_S4Cumulative6
+[Showdown] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_013_S4Cumulative5.LSID_013_S4Cumulative5
+[Retribution] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_012_S4Cumulative4.LSID_012_S4Cumulative4
+[A Looming Threat] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_011_S4Cumulative3.LSID_011_S4Cumulative3
+[At Last... I Am Free] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_010_S4Cumulative2.LSID_010_S4Cumulative2
+[Quiet On The Set!] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_009_S4Cumulative1.LSID_009_S4Cumulative1
+[Battle Royale] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_008_KeyArt.LSID_008_KeyArt
+[Elite Agent] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_007_TacticalCommando.LSID_007_TacticalCommando
+[Minigun] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_006_Minigun.LSID_006_Minigun
+[Suppressed Pistol] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_005_SuppressedPistol.LSID_005_SuppressedPistol
+[Tactical Shotgun] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_004_TacticalShotgun.LSID_004_TacticalShotgun
+[Harvesting Tools] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_003_Pickaxes.LSID_003_Pickaxes
+[Raptor] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_002_Raptor.LSID_002_Raptor
+[Brite Unicorn] /Game/Athena/Items/Cosmetics/LoadingScreens/LSID_001_Brite.LSID_001_Brite
